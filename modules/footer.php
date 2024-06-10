@@ -1,82 +1,189 @@
-<!-- footer 
-			================================================== -->
-<footer>
-      <div class="container">
-            <div class="footer-widgets-part">
-                  <div class="row">
-                        <div class="col-md-5">
-                              <div class="widget text-widget">
-                                    <h1>Conciergie majeustueuse</h1>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.</p>
-                                    <p>Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis. Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam.</p>
-                                    <a href="index.html"><img src="../images/footer-logo.png" alt=""></a>
+<!-- Footer -->
+<footer id="footer" class="footer bg-black-222">
+      <div class="container pt-70 pb-30">
+            <div class="row border-bottom-black">
+                  <div class="col-sm-6 col-md-3">
+                        <div class="widget dark">
+                              <img class="mt-10 mb-20" alt="" src="images/logo-wide-white.png">
+                              <p>203, Envato Labs, Behind Alis Steet, Melbourne, Australia.</p>
+                              <ul class="list-inline mt-5">
+                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-phone text-theme-colored mr-5"></i> <a class="text-gray" href="#">123-456-789</a> </li>
+                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-envelope-o text-theme-colored mr-5"></i> <a class="text-gray" href="#">contact@yourdomain.com</a> </li>
+                                    <li class="m-0 pl-10 pr-10"> <i class="fa fa-globe text-theme-colored mr-5"></i> <a class="text-gray" href="#">www.yourdomain.com</a> </li>
+                              </ul>
+                        </div>
+                  </div>
+                  <div class="col-sm-6 col-md-3">
+                        <div class="widget dark">
+                              <h5 class="widget-title line-bottom">Latest News</h5>
+                              <div class="latest-posts">
+                                    <article class="post media-post clearfix pb-0 mb-10">
+                                          <a href="#" class="post-thumb"><img alt="" src="http://placehold.it/80x55"></a>
+                                          <div class="post-right">
+                                                <h5 class="post-title mt-0 mb-5"><a href="#">Sustainable Construction</a></h5>
+                                                <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                          </div>
+                                    </article>
+                                    <article class="post media-post clearfix pb-0 mb-10">
+                                          <a href="#" class="post-thumb"><img alt="" src="http://placehold.it/80x55"></a>
+                                          <div class="post-right">
+                                                <h5 class="post-title mt-0 mb-5"><a href="#">Industrial Coatings</a></h5>
+                                                <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                          </div>
+                                    </article>
+                                    <article class="post media-post clearfix pb-0 mb-10">
+                                          <a href="#" class="post-thumb"><img alt="" src="http://placehold.it/80x55"></a>
+                                          <div class="post-right">
+                                                <h5 class="post-title mt-0 mb-5"><a href="#">Storefront Installations</a></h5>
+                                                <p class="post-date mb-0 font-12">Mar 08, 2015</p>
+                                          </div>
+                                    </article>
                               </div>
                         </div>
-                        <div class="col-md-3">
-                              <div class="widget tags-widget">
-                                    <h1>Nos services</h1>
-                                    <ul class="tag-list">
-                                          <li><a href="#">Voyages</a></li>
-                                          <li><a href="#">Fashion</a></li>
-                                          <li><a href="#">Politics</a></li>
-                                          <li><a href="#">Sport</a></li>
-                                          <li><a href="#">Videos</a></li>
-                                          <li><a href="#">Business</a></li>
-                                          <li><a href="#">Food</a></li>
-                                    </ul>
+                  </div>
+                  <div class="col-sm-6 col-md-3">
+                        <div class="widget dark">
+                              <h5 class="widget-title line-bottom">Useful Links</h5>
+                              <ul class="list angle-double-right list-border">
+                                    <li><a href="#">Body Building</a></li>
+                                    <li><a href="#">Fitness Classes</a></li>
+                                    <li><a href="#">Weight lifting</a></li>
+                                    <li><a href="#">Yoga Courses</a></li>
+                                    <li><a href="#">Training</a></li>
+                              </ul>
+                        </div>
+                  </div>
+                  <div class="col-sm-6 col-md-3">
+                        <div class="widget dark mb-20">
+                              <h5 class="widget-title line-bottom">Quick Contact</h5>
+                              <ul class="list-border font-13">
+                                    <li><a href="#">+(012) 345 6789</a></li>
+                                    <li><a href="#">hello@yourdomain.com</a></li>
+                                    <li><a href="#" class="lineheight-20">121 King Street, Melbourne Victoria 3000, Australia</a></li>
+                              </ul>
+                        </div>
+                        <div class="widget dark">
+                              <h6 class="widget-title mb-0 text-gray-darkgray">Connect With Us</h6>
+                              <ul class="social-icons icon-dark icon-circled icon-sm mt-10">
+                                    <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-skype"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                                    <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+                              </ul>
+                        </div>
+                  </div>
+            </div>
+            <div class="row mt-10">
+                  <div class="col-md-5">
+                        <div class="widget dark">
+                              <h5 class="widget-title mb-10">Subscribe Us</h5>
+                              <!-- Mailchimp Subscription Form Starts Here -->
+                              <form id="mailchimp-subscription-form-footer" class="newsletter-form">
+                                    <div class="input-group">
+                                          <input type="email" value="" name="EMAIL" placeholder="Your Email" class="form-control input-lg font-16" data-height="45px" id="mce-EMAIL-footer">
+                                          <span class="input-group-btn">
+                                                <button data-height="45px" class="btn btn-colored btn-theme-colored btn-xs m-0 font-14" type="submit">Subscribe</button>
+                                          </span>
+                                    </div>
+                              </form>
+                              <!-- Mailchimp Subscription Form Validation-->
+                              <script type="text/javascript">
+                                    $('#mailchimp-subscription-form-footer').ajaxChimp({
+                                          callback: mailChimpCallBack,
+                                          url: '//thememascot.us9.list-manage.com/subscribe/post?u=a01f440178e35febc8cf4e51f&amp;id=49d6d30e1e'
+                                    });
+
+                                    function mailChimpCallBack(resp) {
+                                          // Hide any previous response text
+                                          var $mailchimpform = $('#mailchimp-subscription-form-footer'),
+                                                $response = '';
+                                          $mailchimpform.children(".alert").remove();
+                                          if (resp.result === 'success') {
+                                                $response = '<div class="alert alert-success"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
+                                          } else if (resp.result === 'error') {
+                                                $response = '<div class="alert alert-danger"><button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>' + resp.msg + '</div>';
+                                          }
+                                          $mailchimpform.prepend($response);
+                                    }
+                              </script>
+                              <!-- Mailchimp Subscription Form Ends Here -->
+                        </div>
+                  </div>
+                  <div class="col-md-3 col-md-offset-1">
+                        <div class="widget dark">
+                              <h5 class="widget-title mb-10">Call Us Now</h5>
+                              <div class="text-gray">
+                                    +61 3 1234 5678 <br>
+                                    +12 3 1234 5678
                               </div>
                         </div>
-                        <div class="col-md-4">
-                              <div class="widget flickr-widget">
-                                    <h1>Ils nous font confiance</h1>
-                                    <ul class="flickr-list">
-                                          <li><a href="#"><img src="upload/flickr/1.jpg" alt=""></a></li>
-                                          <li><a href="#"><img src="upload/flickr/2.jpg" alt=""></a></li>
-                                          <li><a href="#"><img src="upload/flickr/3.jpg" alt=""></a></li>
-                                          <li><a href="#"><img src="upload/flickr/4.jpg" alt=""></a></li>
-                                          <li><a href="#"><img src="upload/flickr/5.jpg" alt=""></a></li>
-                                          <li><a href="#"><img src="upload/flickr/6.jpg" alt=""></a></li>
+                  </div>
+                  <div class="col-md-3">
+                        <div class="widget dark">
+                              <h5 class="widget-title mb-10">Opening Hours</h5>
+                              <div class="opening-hourse">
+                                    <ul class="list-border">
+                                          <li class="clearfix"> <span> Mon - Fri :</span>
+                                                <div class="value pull-right"> 8.00 am - 6.00 pm </div>
+                                          </li>
+                                          <li class="clearfix"> <span> Sun : </span>
+                                                <div class="value pull-right"> Colosed </div>
+                                          </li>
                                     </ul>
                               </div>
                         </div>
                   </div>
             </div>
-            <div class="footer-last-line">
+      </div>
+      <div class="footer-bottom bg-black-333">
+            <div class="container pt-20 pb-20">
                   <div class="row">
-                        <div class="col-md-6">
-                              <p>&copy; COPYRIGHT 2023, Développé par <a href="https://w2days.com/" target="_black">W2days</a></p>
+                        <div class="col-md-6 sm-text-center">
+                              <p class="font-11 text-black-777 m-0">Copyright &copy;2015 ThemeMascot. All Rights Reserved</p>
                         </div>
-                        <div class="col-md-6">
-                              <nav class="footer-nav">
-                                    <ul>
-                                          <li><a href="index.html">Accueil</a></li>
-                                          <li><a href="index.html">Qui sommes-nous</a></li>
-                                          <li><a href="about.html">services</a></li>
-                                          <li><a href="contact.html">Devenir partenaire</a></li>
-                                          <li><a href="contact.html">Contact</a></li>
+                        <div class="col-md-6 text-right">
+                              <div class="widget no-border m-0">
+                                    <ul class="list-inline sm-text-center mt-5 font-12">
+                                          <li>
+                                                <a href="#">FAQ</a>
+                                          </li>
+                                          <li>|</li>
+                                          <li>
+                                                <a href="#">Help Desk</a>
+                                          </li>
+                                          <li>|</li>
+                                          <li>
+                                                <a href="#">Support</a>
+                                          </li>
                                     </ul>
-                              </nav>
+                              </div>
                         </div>
                   </div>
             </div>
       </div>
 </footer>
-<!-- End footer -->
-
+<a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 </div>
-<!-- End Container -->
+<!-- end wrapper -->
 
-<script type="text/javascript" src="../js/jquery.min.js"></script>
-<script type="text/javascript" src="../js/jquery.migrate.js"></script>
-<script type="text/javascript" src="../js/jquery.bxslider.min.js"></script>
-<script type="text/javascript" src="../js/jquery.magnific-popup.min.js"></script>
-<script type="text/javascript" src="../js/bootstrap.min.js"></script>
-<script type="text/javascript" src="../js/jquery.ticker.js"></script>
-<script type="text/javascript" src="../js/jquery.imagesloaded.min.js"></script>
-<script type="text/javascript" src="../js/jquery.isotope.min.js"></script>
-<script type="text/javascript" src="../js/owl.carousel.min.js"></script>
-<script type="text/javascript" src="../js/retina-1.1.0.min.js"></script>
-<script type="text/javascript" src="../js/script.js"></script>
+<!-- Footer Scripts -->
+<!-- JS | Custom script for all pages -->
+<script src="js/custom.js"></script>
+
+<!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
+      (Load Extensions only on Local File Systems ! 
+       The following part can be removed on Server for On Demand Loading) -->
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.actions.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.carousel.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.migration.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="js/revolution-slider/js/extensions/revolution.extension.video.min.js"></script>
 
 </body>
 
