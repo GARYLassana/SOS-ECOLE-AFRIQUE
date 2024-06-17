@@ -12,6 +12,7 @@ Colored Skin
 .menuzord-menu > li:hover > a{
 	color: #333;
 	background: #f5f5f5;
+font-weight: 600;
 }
 
 /* Hover state (dropdown items) */

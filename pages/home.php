@@ -8,74 +8,100 @@
         <div class="rev_slider_wrapper">
           <div class="rev_slider" data-version="5.0">
             <ul>
+
               <!-- SLIDE 1 -->
-              <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide1.jpg" data-rotate="0" data-saveperformance="off" data-title="Wow Factor" data-description="">
+              <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
                 <!-- MAIN IMAGE -->
                 <img src="images/sliders/slide1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption NotGeneric-Title tp-resizeme text-uppercase" id="rs-1-layer-1" data-x="['left','left','left','left']" data-hoffset="['50','50','50','50']" data-y="['top','top','top','top']" data-voffset="['150','150','170','168']" data-fontsize="['72','72','64','48']" data-lineheight="['100','90','60','60']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 5; white-space: nowrap; font-size: 40px; line-height: 40px;">Happy Donate
+                <div class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-1" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['28']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:400; border-radius: 30px;">L'éducation est la seule arme à utiliser pour qu'on puisse changer le monde.
                 </div>
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption NotGeneric-SubTitle tp-resizeme text-uppercase" id="rs-1-layer-2" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['160','160','160','160']" data-fontsize="['14','16',20']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 0.90);">help the children
+                <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-2" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-20']" data-fontsize="['48']" data-lineheight="['70']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;">Aider les enfants
                 </div>
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption Photography-Textblock tp-resizeme" id="rs-1-layer-3" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['250','250','250','250']" data-fontsize="['15','16',20']" data-width="380" data-height="150" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.01" style="z-index: 7; min-width: 380px; max-width: 380px; max-width: 180px; max-width: 180px; white-space: normal; line-height: 25px; color: rgba(255, 255, 255, 0.90);">The best and most beautiful things in the world cannot be seen or even touched they must be felt with the heart.
+                <div class="tp-caption tp-resizeme text-white text-center" id="rs-1-layer-3" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['50']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
                 </div>
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption BigBold-Button rev-btn text-uppercase" id="rs-1-layer-4" data-x="['left']" data-hoffset="['50']" data-y="['top']" data-voffset="['350']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="1000" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-responsive="on" style="z-index: 8; white-space: nowrap;text-transform:left;border-color:rgba(255, 255, 255, 0.25);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Donate Now <i style="font-size: .8rem; vertical-align: middle;" class="fa fa-arrow-circle-right text-white ml-5"></i>
+                <div class="tp-caption tp-resizeme" id="rs-1-layer-4" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['115']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="#">Faire un don maintenant</a>
                 </div>
               </li>
 
               <!-- SLIDE 2 -->
-              <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide1.jpg" data-rotate="0" data-saveperformance="off" data-title="Wow Factor" data-description="">
+              <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 2" data-description="">
                 <!-- MAIN IMAGE -->
                 <img src="images/sliders/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
-                <!-- LAYER NR. 2 -->
-                <div class="tp-caption NotGeneric-Title tp-resizeme text-uppercase" id="rs-2-layer-1" data-x="['left','left','left','left']" data-hoffset="['50','50','50','50']" data-y="['top','top','top','top']" data-voffset="['150','150','170','168']" data-fontsize="['72','72','64','48']" data-lineheight="['100','90','60','60']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 5; white-space: nowrap; font-size: 40px; line-height: 40px;">Poor Children
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-2-layer-1" data-x="['left']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-110']" data-fontsize="['25']" data-lineheight="['120']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700;">Puis ce que les enfants ont besoin de nous tous
                 </div>
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption NotGeneric-SubTitle tp-resizeme text-uppercase" id="rs-2-layer-2" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['160','160','160','160']" data-fontsize="['14','16',20']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="opacity:0;s:1000;e:Power2.easeIn;s:1000;e:Power2.easeIn;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 0.90);">Rising helping hand For
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pl-20 pr-20" id="rs-2-layer-2" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['35']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600; border-radius: 30px;">Engagement SOS École Afrique
                 </div>
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption Photography-Textblock tp-resizeme" id="rs-2-layer-3" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['250','250','250','250']" data-fontsize="['15','16',20']" data-width="380" data-height="150" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.01" style="z-index: 7; min-width: 380px; max-width: 380px; max-width: 180px; max-width: 180px; white-space: normal; line-height: 25px;">The best and most beautiful things in the world cannot be seen or even touched they must be felt with the heart.
+                <div class="tp-caption tp-resizeme text-white" id="rs-2-layer-3" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Soyez Acteurs et Actrices pleinement engagés aux missions humanitaires et actions que SOS ECOLE AFRIQUE mènent depuis 2007
+
                 </div>
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption BigBold-Button rev-btn text-uppercase" id="rs-2-layer-4" data-x="['left']" data-hoffset="['50']" data-y="['top']" data-voffset="['350']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-responsive="on" style="z-index: 8; white-space: nowrap;text-transform:left;border-color:rgba(255, 255, 255, 0.25);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Donate Now <i style="font-size: .8rem; vertical-align: middle;" class="fa fa-arrow-circle-right text-white ml-5"></i>
+                <div class="tp-caption tp-resizeme" id="rs-2-layer-4" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
                 </div>
               </li>
 
               <!-- SLIDE 3 -->
-              <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide3.jpg" data-rotate="0" data-saveperformance="off" data-title="Wow Factor" data-description="">
+              <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide3.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 3" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/sliders/slide3.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <img src="images/sliders/slide3.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption NotGeneric-Title tp-resizeme text-uppercase" id="rs-3-layer-1" data-x="['left','left','left','left']" data-hoffset="['50','50','50','50']" data-y="['top','top','top','top']" data-voffset="['150','150','170','168']" data-fontsize="['72','72','64','48']" data-lineheight="['100','90','60','60']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 5; white-space: nowrap; font-size: 40px; line-height: 40px;">For Educaton
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pr-20 pl-20" id="rs-3-layer-1" data-x="['right']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['64']" data-lineheight="['72']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;"><span class="">Pour les jeûnes </span> filles
                 </div>
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption NotGeneric-SubTitle tp-resizeme text-uppercase" id="rs-3-layer-2" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['160','160','160','160']" data-fontsize="['14','16',20']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.03" style="z-index: 6; white-space: nowrap; color: rgba(255, 255, 255, 0.90);">Help Poor Children
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-3-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Un coup de main pour le bien être de nos soeur, mariées forcées
                 </div>
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption Photography-Textblock tp-resizeme" id="rs-3-layer-3" data-x="['left','left','left','left']" data-hoffset="['55','55','55','55']" data-y="['top','top','top','top']" data-voffset="['250','250','250','250']" data-fontsize="['15','16',20']" data-width="380" data-height="150" data-whitespace="normal" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="chars" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-elementdelay="0.01" style="z-index: 7; min-width: 380px; max-width: 380px; max-width: 180px; max-width: 180px; white-space: normal; line-height: 25px;">The best and most beautiful things in the world cannot be seen or even touched they must be felt with the heart.
+                <div class="tp-caption tp-resizeme text-white text-right" id="rs-3-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
                 </div>
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption BigBold-Button rev-btn text-uppercase" id="rs-3-layer-4" data-x="['left']" data-hoffset="['50']" data-y="['top']" data-voffset="['350']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="x:-50px;opacity:0;s:500;e:Power1.easeInOut;" data-transform_out="x:50px;opacity:0;s:500;e:Power1.easeInOut;" data-start="500" data-splitin="none" data-splitout="none" data-basealign="slide" data-responsive_offset="on" data-responsive="on" style="z-index: 8; white-space: nowrap;text-transform:left;border-color:rgba(255, 255, 255, 0.25);outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;">Donate Now <i style="font-size: .8rem; vertical-align: middle;" class="fa fa-arrow-circle-right text-white ml-5"></i>
+                <div class="tp-caption tp-resizeme" id="rs-3-layer-4" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
                 </div>
               </li>
+
+              <!-- SLIDE 3 -->
+              <li data-index="rs-4" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide4.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 3" data-description="">
+                <!-- MAIN IMAGE -->
+                <img src="images/sliders/slide4.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <!-- LAYERS -->
+
+                <!-- LAYER NR. 1 -->
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pr-20 pl-20" id="rs-3-layer-1" data-x="['right']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['64']" data-lineheight="['72']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Pour l'éducation
+                </div>
+
+                <!-- LAYER NR. 2 -->
+                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-4-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Chaque enfant ne doit-il pas avoir son droit de solarité ?
+                </div>
+
+                <!-- LAYER NR. 3 -->
+                <div class="tp-caption tp-resizeme text-white text-right" id="rs-4-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
+                </div>
+
+                <!-- LAYER NR. 4 -->
+                <div class="tp-caption tp-resizeme" id="rs-4-layer-4" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
+                </div>
+              </li>
+
             </ul>
           </div>
           <!-- end .rev_slider -->
@@ -85,7 +111,7 @@
           $(document).ready(function(e) {
             $(".rev_slider").revolution({
               sliderType: "standard",
-              sliderLayout: "fullscreen",
+              sliderLayout: "auto",
               dottedOverlay: "none",
               delay: 5000,
               navigation: {
@@ -100,43 +126,47 @@
                   swipe_direction: "horizontal",
                   drag_block_vertical: false
                 },
+                arrows: {
+                  style: "zeus",
+                  enable: true,
+                  hide_onmobile: true,
+                  hide_under: 600,
+                  hide_onleave: true,
+                  hide_delay: 200,
+                  hide_delay_mobile: 1200,
+                  tmp: '<div class="tp-title-wrap">    <div class="tp-arr-imgholder"></div> </div>',
+                  left: {
+                    h_align: "left",
+                    v_align: "center",
+                    h_offset: 30,
+                    v_offset: 0
+                  },
+                  right: {
+                    h_align: "right",
+                    v_align: "center",
+                    h_offset: 30,
+                    v_offset: 0
+                  }
+                },
                 bullets: {
                   enable: true,
                   hide_onmobile: true,
-                  style: "zeus",
+                  hide_under: 600,
+                  style: "metis",
                   hide_onleave: true,
-                  direction: "vertical",
-                  h_align: "bottom",
-                  v_align: "center",
-                  h_offset: 30,
-                  v_offset: 0,
-                  space: 10,
-                  tmp: ''
-                },
-                thumbnails: {
-                  style: "gyges",
-                  enable: true,
-                  width: 60,
-                  height: 60,
-                  min_width: 60,
-                  wrapper_padding: 0,
-                  wrapper_color: "#000000",
-                  wrapper_opacity: "0",
-                  tmp: '<span class="tp-thumb-img-wrap">  <span class="tp-thumb-image"></span></span>',
-                  visibleAmount: 10,
-                  hide_onmobile: true,
-                  hide_onleave: true,
+                  hide_delay: 200,
+                  hide_delay_mobile: 1200,
                   direction: "horizontal",
-                  span: false,
-                  position: "inner",
-                  space: 10,
-                  h_align: "left",
+                  h_align: "center",
                   v_align: "bottom",
-                  h_offset: 30,
-                  v_offset: 30
+                  h_offset: 0,
+                  v_offset: 30,
+                  space: 5,
+                  tmp: '<span class="tp-bullet-img-wrap">  <span class="tp-bullet-image"></span></span><span class="tp-bullet-title">{{title}}</span>'
                 }
               },
-              responsiveLevels: [1240, 1024, 778, 480],
+              responsiveLevels: [1240, 1024, 778],
+              visibilityLevels: [1240, 1024, 778],
               gridwidth: [1170, 1024, 778, 480],
               gridheight: [600, 768, 960, 720],
               lazyType: "none",
@@ -153,6 +183,10 @@
               stopAtSlide: -1,
               shuffle: "off",
               autoHeight: "off",
+              fullScreenAutoWidth: "off",
+              fullScreenAlignForce: "off",
+              fullScreenOffsetContainer: "",
+              fullScreenOffset: "0",
               hideThumbsOnMobile: "off",
               hideSliderAtLimit: 0,
               hideCaptionAtLimit: 0,
@@ -161,7 +195,7 @@
               fallbacks: {
                 simplifyAll: "off",
                 nextSlideOnWindowFocus: "off",
-                disableFocusListener: false
+                disableFocusListener: false,
               }
             });
           });
@@ -171,6 +205,7 @@
       </div>
     </section>
 
+
     <section>
       <div class="container-fluid p-0 p-sm-15">
         <div class="section-content text-center">
@@ -178,9 +213,9 @@
             <div class="col-sm-12 col-md-3 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay1">
               <div class="sm-height-auto bg-theme-colored">
                 <div class="p-50">
-                  <h3 class="text-uppercase text-white mt-0">Become a Volunteer</h3>
-                  <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-                  <a href="page-become-a-volunteer.html" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Join us Now</a>
+                  <h3 class="text-uppercase text-white mt-0">Les déplacés de guerre</h3>
+                  <p class="text-white">les enfants sacrifiées de l'école sont victimes des conflits des groupes armées et intercommunautaires</p>
+                  <a href="contact" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Rejoignez nous maintenant</a>
                 </div>
                 <i class="flaticon-charity-shaking-hands-inside-a-heart bg-icon"></i>
               </div>
@@ -188,9 +223,9 @@
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 pr-0 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay2">
               <div class="sm-height-auto bg-theme-colored-darker2">
                 <div class="p-50">
-                  <h3 class="text-uppercase text-white mt-0">Adopt a Child</h3>
-                  <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-                  <a href="#" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Contact us</a>
+                  <h3 class="text-uppercase text-white mt-0">Les orphelins </h3>
+                  <p class="text-white">enlevés, séparés de leur famille et devenus orphelins du jour au lendemain, souffrant de malnutrition sévère</p>
+                  <a href="contact" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Parrainez un Orphelin</a>
                 </div>
                 <i class="flaticon-charity-home-insurance bg-icon"></i>
               </div>
@@ -198,9 +233,9 @@
             <div class="col-sm-12 col-md-3 pl-0 pr-0 pl-sm-15 pr-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay3">
               <div class="sm-height-auto bg-theme-colored-darker3">
                 <div class="p-50">
-                  <h3 class="text-uppercase text-white mt-0">Get Involved</h3>
-                  <p class="text-white">Lorem ipsum dolor sit amet, consectetur adipisicing.</p>
-                  <a href="page-donate.html" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Donate Us</a>
+                  <h3 class="text-uppercase text-white mt-0">Les enfants endoctrinés </h3>
+                  <p class="text-white">Les enfants mineurs recrutés au sein des groupes armées, non scolarisé, entrainés au maniement des armes</p>
+                  <a href="contact" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Faites-nous un don</a>
                 </div>
                 <i class="flaticon-charity-make-an-online-donation bg-icon"></i>
               </div>
@@ -208,9 +243,9 @@
             <div class="col-sm-12 col-md-3 pl-0 pl-sm-15 sm-height-auto mt-sm-0 wow fadeInLeft animation-delay4">
               <div class="sm-height-auto bg-theme-colored-darker4">
                 <div class="p-50">
-                  <h3 class="text-uppercase text-white mt-0">Emergency Case</h3>
-                  <h3 class="text-white mt-0 mb-5">+(012) 345 6789</h3>
-                  <a href="page-contact1.html" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Contact Now</a>
+                  <h3 class="text-uppercase text-white mt-0">cas d'urgence</h3>
+                  <h3 class="text-white mt-0 mb-5">+339 88 83 09 58</h3>
+                  <a href="tel:+339 88 83 09 58" target="_blank" class="btn btn-border btn-circled btn-transparent btn-sm mt-5">Contactez nous maintenant</a>
                 </div>
                 <i class="fa fa-mobile bg-icon"></i>
               </div>
@@ -226,42 +261,44 @@
         <div class="section-content">
           <div class="row">
             <div class="col-xs-12 col-md-7">
-              <h2 class="mt-0 line-bottom"><span class="font-weight-300">Welcome to </span> <span class="text-theme-colored font-weight-400">CharityFair</span></h2>
-              <p class="lead mb-10">We can change life with the help of poor people by CharityFair.</p>
-              <p>We care for children, protect their welfare, and prepare them for the future are the most important issues we face during our lifetime. All kids are born with an innate sense of charity and compassion. Sure, it's easy to lose sight of that fact as we listen to our little ones clamor for the hottest toys, tastiest treats, and trendiest clothes.</p>
-              <p>But if we look closely, the signs are everywhere. Most people tend to associate charity with giving money. We write a check to our favorite cause, drop a few dollars in the basket at church, participate in school fund-raisers, and feel good about our efforts.</p>
+              <h2 class="mt-0 line-bottom"><span class="font-weight-300">Bienvenue sur </span> <span class="text-theme-colored font-weight-400">SOS ÉCOLE AFRIQUE</span></h2>
+
+              <a target="_blank" href='https://paypal.me/w2days?country.x=FR&locale.x=fr_FR'>Paypal</a>
+              <p class="lead mb-10">Nous pouvons changer la vie avec l'aide des pauvres par <span class="text-theme-colored font-weight-400">SOS ÉCOLE AFRIQUE</span>.</p>
+              <p>Prendre soin des enfants, protéger leur bien-être et les préparer à l'avenir sont les problèmes les plus importants auxquels nous sommes confrontés au cours de notre vie. Tous les enfants naissent avec un sens inné de charité et de compassion. Bien sûr, il est facile de perdre ce fait de vue lorsque nous écoutons nos tout-petits réclamer les jouets les plus chauds, les friandises les plus savoureuses et les vêtements les plus tendance.</p>
+
+              <p>Mais si l'on y regarde de plus près, les signes sont partout. La plupart des gens ont tendance à associer la charité au don d'argent. Nous faisons un chèque à notre cause préférée, déposons quelques dollars dans le panier à l'église, participons aux collectes de fonds de l'école et sommes satisfaits de nos efforts.</p>
               <div class="row">
                 <div class="col-xs-6">
                   <ul class="mt-10">
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Family Support</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Group Work</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Research & Informatics</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Soutien aux familles</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Travail collectif</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Recherche et information</li>
                   </ul>
                 </div>
                 <div class="col-xs-6">
                   <ul class="mt-10">
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Feel like Home Services</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Childhood Care</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Agriculture & Nutrition</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Sentez-vous comme à la maison Services</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Soins à apporter aux jeunes enfants</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Travail des jeûnes non à situation</li>
                   </ul>
                 </div>
               </div>
-              <a class="btn btn-lg btn-dark btn-theme-colored mt-10 mb-sm-20" href="#">View Details</a>
             </div>
             <div class="col-md-5">
-              <h3 class="mt-0 line-bottom"><span class="font-weight-300">Upcoming </span> Events</h3>
+              <h3 class="mt-0 line-bottom"><span class="font-weight-300">Activités à </span> venir</h3>
               <div class="event media mb-20 no-bg no-border">
                 <div class="event-date media-left text-center flip bg-theme-colored p-20">
                   <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
+                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">01</li>
+                    <li class="font-22 text-white text-uppercase">Jan</li>
                   </ul>
                 </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Remise des kits solaire</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Tango(MALI)</span>
                     <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
                   </div>
                 </div>
@@ -270,14 +307,14 @@
                 <div class="event-date media-left text-center flip bg-theme-colored p-20">
                   <ul>
                     <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
+                    <li class="font-22 text-white text-uppercase">Fev</li>
                   </ul>
                 </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Lancement des travail puit</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nioro(MALI)</span>
                     <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
                   </div>
                 </div>
@@ -286,14 +323,14 @@
                 <div class="event-date media-left text-center flip bg-theme-colored p-20">
                   <ul>
                     <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Feb</li>
+                    <li class="font-22 text-white text-uppercase">Avr</li>
                   </ul>
                 </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Gear up for giving</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> at 5.00 pm - 7.30 pm</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> 25 Newyork City</span>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Remise des vivres</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Kalaban(Bamako, MALI)</span>
                     <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
                   </div>
                 </div>
@@ -304,514 +341,398 @@
       </div>
     </section>
 
-    <!-- Divider: Make a Donation -->
-    <section class="divider parallax layer-overlay overlay-dark-6" data-bg-img="http://placehold.it/1920x1280" data-parallax-ratio="0.7">
+
+    <!-- Section: Divider -->
+    <section class="divider parallax layer-overlay overlay-dark-7" data-bg-img="images/home-image/arrierePlan.png">
       <div class="container pt-0 pb-0">
-        <div class="row">
-          <div class="col-md-8">
-            <div class="bg-light-transparent p-40">
-              <h3 class="mt-0 line-bottom">Make a Donation<span class="font-weight-300"> Now!</span></h3>
-
-              <!-- ===== START: Paypal Both Onetime/Recurring Form ===== -->
-              <form id="paypal_donate_form_onetime_recurring">
-                <div class="row">
-                  <div class="col-md-12">
-                    <img src="images/payment-card-logo-sm.png" alt="">
-                    <div class="form-group mt-20 mb-20">
-                      <label><strong>Payment Type</strong></label> <br>
-                      <label class="radio-inline">
-                        <input type="radio" checked="" value="one_time" name="payment_type">
-                        One Time
-                      </label>
-                      <label class="radio-inline">
-                        <input type="radio" value="recurring" name="payment_type">
-                        Recurring
-                      </label>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-12" id="donation_type_choice">
-                    <div class="form-group mb-20">
-                      <label><strong>Donation Type</strong></label>
-                      <div class="radio mt-5">
-                        <label class="radio-inline">
-                          <input type="radio" value="D" name="t3" checked="">
-                          Daily</label>
-                        <label class="radio-inline">
-                          <input type="radio" value="W" name="t3">
-                          Weekly</label>
-                        <label class="radio-inline">
-                          <input type="radio" value="M" name="t3">
-                          Monthly</label>
-                        <label class="radio-inline">
-                          <input type="radio" value="Y" name="t3">
-                          Yearly</label>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-6">
-                    <div class="form-group mb-20">
-                      <label><strong>I Want to Donate for</strong></label>
-                      <select name="item_name" class="form-control">
-                        <option value="Educate Children">Educate Children</option>
-                        <option value="Child Camps">Child Camps</option>
-                        <option value="Clean Water for Life">Clean Water for Life</option>
-                        <option value="Campaign for Child Poverty">Campaign for Child Poverty</option>
-                      </select>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-6">
-                    <div class="form-group mb-20">
-                      <label><strong>Currency</strong></label>
-                      <select name="currency_code" class="form-control">
-                        <option value="">Select Currency</option>
-                        <option value="USD" selected="selected">USD - U.S. Dollars</option>
-                        <option value="AUD">AUD - Australian Dollars</option>
-                        <option value="BRL">BRL - Brazilian Reais</option>
-                        <option value="GBP">GBP - British Pounds</option>
-                        <option value="HKD">HKD - Hong Kong Dollars</option>
-                        <option value="HUF">HUF - Hungarian Forints</option>
-                        <option value="INR">INR - Indian Rupee</option>
-                        <option value="ILS">ILS - Israeli New Shekels</option>
-                        <option value="JPY">JPY - Japanese Yen</option>
-                        <option value="MYR">MYR - Malaysian Ringgit</option>
-                        <option value="MXN">MXN - Mexican Pesos</option>
-                        <option value="TWD">TWD - New Taiwan Dollars</option>
-                        <option value="NZD">NZD - New Zealand Dollars</option>
-                        <option value="NOK">NOK - Norwegian Kroner</option>
-                        <option value="PHP">PHP - Philippine Pesos</option>
-                        <option value="PLN">PLN - Polish Zlotys</option>
-                        <option value="RUB">RUB - Russian Rubles</option>
-                        <option value="SGD">SGD - Singapore Dollars</option>
-                        <option value="SEK">SEK - Swedish Kronor</option>
-                        <option value="CHF">CHF - Swiss Francs</option>
-                        <option value="THB">THB - Thai Baht</option>
-                        <option value="TRY">TRY - Turkish Liras</option>
-                      </select>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-12">
-                    <div class="form-group mb-20">
-                      <label><strong>How much do you want to donate?</strong></label>
-                      <div class="radio mt-5">
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="20">
-                          $20</label>
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="50">
-                          $50</label>
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="100">
-                          $100</label>
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="200">
-                          $200</label>
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="500">
-                          $500</label>
-                        <label class="radio-inline">
-                          <input type="radio" name="amount" value="other">
-                          Other Amount</label>
-                      </div>
-                      <div id="custom_other_amount">
-                        <label><strong>Custom Amount:</strong></label>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-12">
-                    <div class="form-group">
-                      <button type="submit" class="btn btn-flat btn-dark btn-theme-colored mt-10 pl-30 pr-30" data-loading-text="Please wait...">Donate Now</button>
+        <div class="section-content">
+          <div class="row equal-height-inner">
+            <div class="col-md-12 sm-height-auto">
+              <div class="p-50 p-sm-20 pt-sm-40 bg-light-transparent">
+                <h2 class="title mt-0 line-bottom line-bg-white text-black-222 text-uppercase">POURQUOI LES GENS NOUS CHOISISSENT</h2>
+                <div class="items mb-30">
+                  <div class="icon-box p-0">
+                    <a href="#" class="icon mb-0 mr-0 pull-left">
+                      <i class="flaticon-charity-alms text-theme-colored font-50"></i>
+                    </a>
+                    <div class="ml-80">
+                      <h4 class="icon-box-title">VISION</h4>
+                      <p class="text-black-333">Indignés face à la progression de la progression de la pauvreté et la déscolarisation des enfants en Afrique. <br />Nous avons mis en place des actions sur court et long terme afin de que l'éducation, l'accès à l'eau soit un droit fondamental inscrit dans la déclaration Universelle des droits de l'Homme (dans la convention relative aux droits des enfants) pour qu'ils puissent devenir des participants actifs de la transformation des civilisations à travers le monde.</p>
                     </div>
                   </div>
                 </div>
-              </form>
+                <div class="items mb-30">
+                  <div class="icon-box p-0">
+                    <a href="#" class="icon mb-0 mr-0 pull-left">
+                      <i class="flaticon-charity-awareness-ribbon-inside-a-heart text-theme-colored font-50"></i>
+                    </a>
+                    <div class="ml-80">
+                      <h4 class="icon-box-title">NOS VALEURS</h4>
+                      <ul class="text-black-333" style="list-style: square;">
+                        <li>Nous sommes au service des plus vulnérables, les protéger contre tout danger, abus et exploitation.</li>
+                        <li>Défenseur des droits des enfants, nous combattons la violence à leur égard, le droit des victimes à recevoir une assistance, ainsi que le droit des organisation humanitaires à donner une assistance dans les conditions suivantes : libre évaluation des besoins, libre accès aux victimes, contrôle de la distribution des secours, respect de l'immunité humanitaire.</li>
+                        <li>Nous plaçons l'Homme au cœur de nos préoccupations où chacun est unique et nous respectons sa singularité, tels que le présente la Déclaration universelle des droits humains de 1948.</li>
+                        <li>Nous nous devons de rendre compte de nos actions de maniéré transparente, aux populations bénéficiaires comme aux donateurs.</li>
+                        <li>Nous nous engageons avec détermination et audace quant au développement de réponses adaptées et innovantes.</li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+                <div class="items mb-30">
+                  <div class="icon-box p-0">
+                    <a href="#" class="icon mb-0 mr-0 pull-left">
+                      <i class="flaticon-charity-make-a-donation text-theme-colored font-50"></i>
+                    </a>
+                    <div class="ml-80">
+                      <h4 class="icon-box-title">NOS MISSIONS</h4>
+                      <div class="panel-group accordion style2 mb-0 mt-20" id="accordion2">
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion21" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span>SANTE </a> </div>
+                          <div class="panel-collapse collapse" id="accordion21">
+                            <div class="panel-content">
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>SOS ECOLE AFRIQUE rêve d' un monde où, peu importe le contexte, en situation de développement comme crise humanitaire, chaque enfant : survit , s'épanouit et a accés à une alimentation nutritve, à des soins de santé primaires de qualité, à des soins attentifs et à des fournitures essentielles.</li>
+                                <li>Des millions de femmes et d'enfants meurent encore de causes qui peuvent être évitées grâce à des soins de santé de qualité et à des systémes de santé solides. Maladies transmissibles, troubles de santé mentale, blessures, malnutrition, les effets du changement climatique : tous représentants une menace pour les enfants en afrique.</li>
+                                <li>SOS ECOLE AFRIQUE joue un rôle majeur dans la vaccination des enfants qui représente l'un des investissements de santé publique les plus efficaces. La vaccination sauve jusqu à 3 millions d'enfants par an en les protégeant contre des maladies mortelles et /ou invalidantes</li>
+                                <li>SOS ECOLE AFRIQUE, Constatons qu'il est possible de faire reculer encore plus la mortalité infantile. Comment ? En investissant dans des services de soins de santé primaire et en faisant des interventions à fort impact à tous les enfants, les adolescents et leurs méres. <br /> C'est ainsi, avec la mobilisation de tous, que nous pouvons mettre fin à ces morts innaceptables d'içi une génération !.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion22" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span> EAU ASSAINISSEMENT ET HYGIENE </a> </div>
+                          <div class="panel-collapse collapse" id="accordion22">
+                            <div class="panel-content">
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>L'accés à l'eau potable est indispensable pour la santé des populations. Pourtant, selon nos estimatimations, 2 milliard de personnes n'ont pas accés à l'eau et 2,3 milliards ne disposent pas d'installations de base ( sanitaires, lavabo) aucune hygiéne: lavage des mains ni eau, ni savon.</li>
+                                <li>Les enfants, dont l'organisme est plus fragile, sont les premiéres victimes. La diarhéé, le choléra et la dysenterie sont en effet une des principales causes de mortalité infantile. Au cœur de ces urgences ( conflits, catastrophes naturelles, déplacements massifs de populations). L'accés à l'eau est crucial pour garantir la santé des enfants.</li>
+                                <li>SOS ECOLE AFRIQUE : joue un rôle majeur dans le domaine de l'eau, de l'assainement et de l'hygiéne, l'un des des grands objectifs de Sos Ecole Afrique est de permettre à tous les enfants d'avoir accés à de l'eau potable. Concrétement cela signifie qu'une source d'eau doit être à moins d'un kilométre et fournir au moins 20 litres d'eau par jour pour chaque enfant. Le défi est immense.</li>
+                                <li>SOS ECOLE AFRIQUE : Nous mettons l'accent particuliérement sur l'accés à l'eau dans les écoles. En 2023, on estime que 3 écoles sur 10 n'avaient pas d'accés à l'eau potable ni à des installations sanitaires de base. Pourtant , pouvoir se laver les mains, avoir accés à une eau salub re et à des installations sanitaires améliorées, sont des facteurs clés de fréquentation et de réussite à l'école.</li>
+                                <li>SOS ECOLE AFRIQUE : L'assainement de l'eau n'est pas seulement un impératif environnemental, mais aussi un enjeu de santé publique. En unissant nos efforts pour relever ce défi, nous pouvons céer un monde où l'accés à une eau propre n'est pas seulement un droit, mais aussi une réalité pour tous.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion23" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span>NUTRITION</a> </div>
+                          <div class="panel-collapse collapse" id="accordion23">
+                            <div class="panel-content">
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>La malnutrition entraîne des sequelles physiques, parfois mentales. Les causes
+                                  sont multiples : le manque d'alimentation, d'eau potable, de sanitaires, de soins
+                                  médicaux et d'éducation ainsi que la pauvreté.
+                                  Les 1000 milles premiers jours de la vie de l'enfant sont les plus déterminants
+                                  car une sous alimentation peut avoir des conséquences irréversibles sur sa
+                                  croissance et sa santé : de la maladie à la mortalité infantile, en passant par le
+                                  handicap.</li>
+                                <li>SOS ECOLE AFRIQUE : développe tout un éventail d'actions et des programmes qui agissent sur tous ces facteurs en même temps dont :
+                                  <ul style="list-style: circle; padding: 0 0 0 35px;">
+                                    <li>La distribution d'aliments thérapeutiques, de vitamines et de micronutriments contre les carences.</li>
+                                    <li>Le dépisatage et la prise en charge des enfants malnutris dans des centres de santé.</li>
+                                    <li>L'appui de programmes de prévention et de sensibilisation des populations.</li>
+                                    <li>L'intervention dans les situations d'urgence, où le risque de malnutrition et de conséquences graves est encore plus élevé.</li>
+                                  </ul>
+                                </li>
+                                <li>SOS ECOLE AFRIQUE : Un défi alimentaire majeur. Chaque année, 1
+                                  millions d'enfants de moins de 5 ans meurent de malnutrition. Le retard de
+                                  croissance ( et les autres formes de sous-nutrition) refléte bien les
+                                  inégalités sociales et met en évidence la pauvreté extrême sur le continent
+                                  africain. C'est pourquoi l'amélioration de la nutrition, en particulier des
+                                  enfants et des femmes, s'impose de plus en plus comme un impératif pour
+                                  réduire la pauvreté, atténuer les inégalités, et promouvoir durablement le
+                                  développement économique et social des communautés.</li>
+                                <li>SOS ECOLE AFRIQUE : 75% des enfants qui recoivent un traitement
+                                  contre la malnutrition s'en sortent en bonne santé. Notre défi est que
+                                  chaque enfant puisse manger à sa faim. Notre objectif est d'atteindre 30%
+                                  de réduction supplémentaire d'içi 2025.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion24" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span>INCLUSION SOCIALE ET EGALITE DES CHANCES</a> </div>
+                          <div class="panel-collapse collapse" id="accordion24">
+                            <div class="panel-content">
+                              <p class="text-black-333">Aucun enfant ne devrait se voir privé de ses droits fondamentaux. SOS ECOLE
+                                AFRIQUE s'engage à respecter le princpe d'égalité et lutte au quotidien contre
+                                toute forme d'exclusion ( pauvreté, discrémination raciale, stigmatisation
+                                communautaire, handicap, violences basées sur le genre...).
+                                Investir dans l'avenir des enfants, est bien plus qu'une obligation morale, c'est
+                                l'assurance d'une meilleure société dans le futur. Ainsi, en s'engageant pour
+                                l'inclusion des enfants, SOS ECOLE AFRIQUE œuvre pour un avenir meilleur.</p>
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>SOS ECOLE AFRIQUE : Endiguer les pratiques néfastes et violentes,
+                                  faire avancer les droits de l'enfant et réduire les inégalités. Pourtant, des
+                                  millions d'enfants sont encore victimes de discrimination, de violences
+                                  physiques et sexuelles, de maltraitance et de négligence.</li>
+                                <li>SOS ECOLE AFRIQUE : Eradiquer la pauvreté en encourageant la
+                                  répartition équitable des ressources et des services en faveur des enfants.
+                                  Soutenir les parents dans l'éducation, la protection et l'inclusion de leurs
+                                  enfants. Porter une attention particuliére aux enfants le plus souvent
+                                  laissés à l'écart : les plus pauvres, ceux en situation de handicap, troubles
+                                  mentaux.</li>
+                                <li>SOS ECOLE AFRIQUE : Chaque enfant, quel que soit sa couleur de
+                                  peau, son origine ou son handicap doit avoir les mêmes chances que ses
+                                  pairs.Le monde sportif est un domaine où d'anciens enfants soldats
+                                  découvrent les bienfaits, les valeurs du sport et développent leurs relations
+                                  sociales.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
 
-              <!-- Script for Donation Form Custom Amount -->
-              <script type="text/javascript">
-                $(document).ready(function(e) {
-                  var $donation_form = $("#paypal_donate_form_onetime_recurring");
-                  //toggle custom amount
-                  var $custom_other_amount = $donation_form.find("#custom_other_amount");
-                  $custom_other_amount.hide();
-                  $donation_form.find("[name='amount']").change(function() {
-                    var $this = $(this);
-                    if ($this.val() == 'other') {
-                      $custom_other_amount.show().append('<div class="input-group"><span class="input-group-addon">$</span> <input id="input_other_amount" type="text" name="amount" class="form-control" value="100"/></div>');
-                    } else {
-                      $custom_other_amount.children(".input-group").remove();
-                      $custom_other_amount.hide();
-                    }
-                  });
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion25" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span>VIH SIDA</a> </div>
+                          <div class="panel-collapse collapse" id="accordion25">
+                            <div class="panel-content">
+                              <p class="text-black-333">SOS ECOLE AFRIQUE : Nous devons concourir tous ensemble à mettre fin au
+                                sida infantile d'içi 2030. Pour réussir, nous avons besoin d'une génération de
+                                jeunes en bonne santé, informés, qui se sentent libres de parler du VIH et
+                                d'obtenir les services et le soutien dont ils ont besoin pour se protéger et
+                                protéger les enfants.</p>
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>SOS ECOLE AFRIQUE : L'écart important qui existe en matiére de
+                                  traitement entre les enfants et les adultes est un scandale. En associant la
+                                  mise à disposition,de nouveaux médicaments améliorés, un nouvel
+                                  engagement politique et l'activisme déterminé des communautés, nous
+                                  pouvons gagner ce combat, mais nous ne pouvons gagner qu'ensemble..</li>
+                                <li>SOS ECOLE AFRIQUE : Aucun enfant ne devrait naître ou grandir avec
+                                  le VIH, et aucun enfant séropositif ne devrait rester sans traitement, le fait
+                                  que la moitié seulement.
+                                  Des enfants séropositifs bénéficient d'antirétroviraux est un scandale et
+                                  une honte pour notre conscience collective.
+                                  Nous sommes déterminés à changer la vie des enfants laissés pour
+                                  compte, en mettant en place les systémes nécessaires pour que les services
+                                  de santé répondent aux besoins des enfants vivant avec le VIH.</li>
+                                <li>SOS ECOLE AFRIQUE à identifier 4 piliers d'action :
+                                  <ul style="list-style: circle; padding: 0 0 0 35px;">
+                                    <li>Combler le déficit de traitement pour les adolescentes et les femmes
+                                      enceintes et allaitantes vivant avec le VIH et optimiser la continuité du
+                                      traitement.
+                                    </li>
+                                    <li>Prévenir et détecter les nouvelles infections au VIH chez les
+                                      adolescentes et les femmes enceintes et allaitantes.
+                                    </li>
+                                    <li>Assurer l'accés au dépistage, à un traitement optimisé et à des soins
+                                      complets pour les nourrissons, les enfants, les adolescents exposés au
+                                      VIH et vivant avec le virus.
+                                    </li>
+                                    <li>Prendre en compte les droits, l'égalité des genres et les barriéres sociales
+                                      et structurelles qui entravent l'accés aux services.
+                                    </li>
+                                  </ul>
 
-                  //toggle donation_type_choice
-                  var $donation_type_choice = $donation_form.find("#donation_type_choice");
-                  $donation_type_choice.hide();
-                  $("input[name='payment_type']").change(function() {
-                    if (this.value == 'recurring') {
-                      $donation_type_choice.show();
-                    } else {
-                      $donation_type_choice.hide();
-                    }
-                  });
-
-
-                  // submit form on click
-                  $donation_form.on('submit', function(e) {
-                    //$( "#paypal_donate_form-onetime" ).submit();
-                    var item_name = $donation_form.find("select[name='item_name'] option:selected").val();
-                    var currency_code = $donation_form.find("select[name='currency_code'] option:selected").val();
-                    var amount = $donation_form.find("[name='amount']:checked").val();
-                    var t3 = $donation_form.find("input[name='t3']:checked").val();
-
-                    if (amount == 'other') {
-                      amount = $donation_form.find("#input_other_amount").val();
-                    }
-
-                    // submit proper form now
-                    if ($("input[name='payment_type']:checked", $donation_form).val() == 'recurring') {
-                      var recurring_form = $('#paypal_donate_form-recurring');
-
-                      recurring_form.find("input[name='item_name']").val(item_name);
-                      recurring_form.find("input[name='currency_code']").val(currency_code);
-                      recurring_form.find("input[name='a3']").val(amount);
-                      recurring_form.find("input[name='t3']").val(t3);
-
-                      recurring_form.find("input[type='submit']").trigger('click');
-
-                    } else if ($("input[name='payment_type']:checked", $donation_form).val() == 'one_time') {
-                      var onetime_form = $('#paypal_donate_form-onetime');
-
-                      onetime_form.find("input[name='item_name']").val(item_name);
-                      onetime_form.find("input[name='currency_code']").val(currency_code);
-                      onetime_form.find("input[name='amount']").val(amount);
-
-                      onetime_form.find("input[type='submit']").trigger('click');
-                    }
-                    return false;
-                  });
-
-                });
-              </script>
-
-              <!-- Paypal Onetime Form -->
-              <form id="paypal_donate_form-onetime" class="hidden" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_donations">
-                <input type="hidden" name="business" value="accounts@thememascot.com">
-
-                <input type="hidden" name="item_name" value="Educate Children"> <!-- updated dynamically -->
-                <input type="hidden" name="currency_code" value="USD"> <!-- updated dynamically -->
-                <input type="hidden" name="amount" value="20"> <!-- updated dynamically -->
-
-                <input type="hidden" name="no_shipping" value="1">
-                <input type="hidden" name="cn" value="Comments...">
-                <input type="hidden" name="tax" value="0">
-                <input type="hidden" name="lc" value="US">
-                <input type="hidden" name="bn" value="PP-DonationsBF">
-                <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.html">
-                <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.html">
-                <input type="hidden" name="notify_url" value="http://www.yoursite.com/notifypayment.php">
-                <input type="submit" name="submit">
-              </form>
-
-              <!-- Paypal Recurring Form -->
-              <form id="paypal_donate_form-recurring" class="hidden" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-                <input type="hidden" name="cmd" value="_xclick-subscriptions">
-                <input type="hidden" name="business" value="accounts@thememascot.com">
-
-                <input type="hidden" name="item_name" value="Educate Children"> <!-- updated dynamically -->
-                <input type="hidden" name="currency_code" value="USD"> <!-- updated dynamically -->
-                <input type="hidden" name="a3" value="20"> <!-- updated dynamically -->
-                <input type="hidden" name="t3" value="D"> <!-- updated dynamically -->
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
 
 
-                <input type="hidden" name="p3" value="1">
-                <input type="hidden" name="rm" value="2">
-                <input type="hidden" name="src" value="1">
-                <input type="hidden" name="sra" value="1">
-                <input type="hidden" name="no_shipping" value="0">
-                <input type="hidden" name="no_note" value="1">
-                <input type="hidden" name="lc" value="US">
-                <input type="hidden" name="bn" value="PP-DonationsBF">
-                <input type="hidden" name="return" value="http://www.yoursite.com/thankyou.html">
-                <input type="hidden" name="cancel_return" value="http://www.yoursite.com/paymentcancel.html">
-                <input type="hidden" name="notify_url" value="http://www.yoursite.com/notifypayment.php">
-                <input type="submit" name="submit">
-              </form>
-              <!-- ===== END: Paypal Both Onetime/Recurring Form ===== -->
-
+                        <div class="panel">
+                          <div class="panel-title"> <a href="#accordion26" data-toggle="collapse" data-parent="#accordion2"> <span class="open-sub"></span>EDUCATION</a> </div>
+                          <div class="panel-collapse collapse" id="accordion26">
+                            <div class="panel-content">
+                              <p class="text-black-333">L'accés à l'éducation dans les villages où intervient SOS ECOLE AFRIQUE est
+                                cruellement contrarié par un déficit de matériels et de moyens humains.</p>
+                              <ul class="text-black-333" style="list-style: square; padding: 0 0 0 35px;">
+                                <li>SOS ECOLE AFRIQUE ; Assurer un accés équitable à une éducation de
+                                  qualité pour les filles et les garcons, mais aussi pour les enfants en
+                                  situation de handicap,marginalisés, ou en situation de crise</li>
+                                <li>SOS ECOLE AFRIQUE : Améliorer la qualité de l'enseignement et
+                                  l'acquisition des compétences, via l'implication de la communauté, le
+                                  soutien à la formation des enseignants et l'apport de matériel
+                                  scolaire.</li>
+                                <li>SOS ECOLE AFRIQUE : Maintenir l'éducation dans les situations d'urgence ( guerre, catastrophes naturelles) et contextes fragiles, afin de protéger les enfants et améliorer leurs apprentissages).</li>
+                                <li>SOS ECOLE AFRIQUE : Situations d'urgence et contextes fragiles : <br />
+                                  amélioration de l'apprentissage et de la protection des enfants en situation d'urgence et en déplacement.</li>
+                              </ul>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Section: Latest Causes  -->
-    <section>
+    <!-- Section: Causes -->
+    <section id="causes">
+      <div class="container pb-sm-30">
+        <div class="section-title text-center">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <h2 class="mt-0 line-height-1 text-uppercase font-28">DERNIÈRES <span class="text-theme-colored font-weight-400">CAUSES</span><span class="font-30 text-theme-colored"></span></h2>
+              <p class="lead">Nous sommes des organisations caritatives / à but non lucratif / de collecte de fonds / ONG. Nos activités caritatives se déroulent dans le monde entier, contribuons avec nous par votre main pour une vie meilleure</p>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row mtli-row-clearfix">
+            <div class="col-md-12">
+              <div class="owl-carousel-3col" data-nav="true">
+                <div class="item">
+                  <div class="causes bg-lighter maxwidth500 mb-sm-30">
+                    <div class="thumb">
+                      <img class="img-fullwidth" alt="" src="images/home-image/ecole-afrique.jpg">
+                    </div>
+                    <div class="progress-item mt-0">
+                      <div class="progress mb-0">
+                        <div class="progress-bar" data-percent="14"></div>
+                      </div>
+                    </div>
+                    <div class="causes-details clearfix border-bottom p-15 pt-10">
+                      <h4><a href="#">Scolarisation des enfants</a></h4>
+                      <p>Faites un don à SOS ECOLE AFRIQUE afin que les enfants bénéficient de Matériel scolaires, bancs scolaires et surtout les colis alimentaires</p>
+                      <p>Le saviez-vous ? 75% de votre don est déductible de votre impôt sur le revenu, dans la limite de 1500 € par an. Un don de 200€ ne vous revient qu'à 50 € sur le montant de votre impôt sur le revenu
+                      </p>
+                      <ul class="list-inline clearfix mt-20">
+                        <li class="pull-left flip pr-0">Soulevé : <span class="font-weight-700">1 000€ </span></li>
+                        <li class="text-theme-colored pull-right flip pr-0">But : <span class="font-weight-700">50 000€ </span></li>
+                      </ul>
+                      <div class="mt-10 clearfix">
+                        <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
+                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donateurs</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="causes bg-lighter maxwidth500 mb-sm-30">
+                    <div class="thumb">
+                      <img class="img-fullwidth" alt="" src="images/home-image/enfant-soldat.avif">
+                    </div>
+                    <div class="progress-item mt-0">
+                      <div class="progress mb-0">
+                        <div class="progress-bar" data-percent="54"></div>
+                      </div>
+                    </div>
+                    <div class="causes-details clearfix border-bottom p-15 pt-10">
+                      <h4><a href="#">Enfants soldats</a></h4>
+                      <p>Aidons les enfants soldats à avoir une formation professionnelle et un capital pour un petit commerce de premiers besoins.</p>
+                      <p>Le saviez-vous ? 75% de votre don est déductible de votre impôt sur le revenu dans la limite de 1500 euros par an. <strong>Un Don de 150 € ne vous revient qu'à 38€</strong> </p>
+                      <ul class="list-inline clearfix mt-20">
+                        <li class="pull-left flip pr-0">Soulevé: <span class="font-weight-700">700€</span></li>
+                        <li class="text-theme-colored pull-right flip pr-0">But : <span class="font-weight-700">13 000€</span></li>
+                      </ul>
+                      <div class="mt-10 clearfix">
+                        <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
+                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donors</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="item">
+                  <div class="causes bg-lighter maxwidth500 mb-sm-30">
+                    <div class="thumb">
+                      <img class="img-fullwidth" alt="" src="images/home-image/enfant-orphelin.jpg">
+                    </div>
+                    <div class="progress-item mt-0">
+                      <div class="progress mb-0">
+                        <div class="progress-bar" data-percent="60"></div>
+                      </div>
+                    </div>
+                    <div class="causes-details clearfix border-bottom p-15 pt-10">
+                      <h4><a href="#">Enfants orphelins</a></h4>
+                      <p>Faites un don à SOS ECOLE AFRIQUE afin de parrainer un orphelin pour ECOLE/VETEMENT/SOINS MEDICAUX</p>
+                      <p>Le saviez-vous ? 75% de votre don est déductible sur le montant de votre impôt sur le revenu dans la limite de 1500 € par an. Un don de 300 € ne vous revient qu'à 75 €
+                      </p>
+                      <ul class="list-inline clearfix mt-20">
+                        <li class="pull-left flip pr-0">Soulevé: <span class="font-weight-700">7700€</span></li>
+                        <li class="text-theme-colored pull-right flip pr-0">But : <span class="font-weight-700">10 000€</span></li>
+                      </ul>
+                      <div class="mt-10 clearfix">
+                        <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
+                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donors</div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+    <!-- Section: About  -->
+    <section id="about">
       <div class="container pb-30">
         <div class="section-title text-center">
           <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-              <h2 class="mt-0 line-height-1 text-uppercase font-28">Latest <span class="text-theme-colored font-weight-400">Causes</span> <span class="font-30 text-theme-colored"></span></h2>
-              <p class="lead">We are charity/ non-profit/ fundraising/ NGO organizations. Our charity activities are taken place around the
-                world,let contribute to them with us by your hand to be a better life</p>
+            <div class="col-md-8 col-md-offset-2">
+              <h2 class="mt-0 line-height-1 text-uppercase font-28">Ce que nous voulons accomplir</h2>
+              <p class="lead">Nous sommes des organisations caritatives / à but non lucratif / de collecte de fonds / ONG. Nos activités caritatives se déroulent dans le monde entier, contribuons avec nous par votre main pour une vie meilleure</p>
             </div>
           </div>
         </div>
         <div class="section-content">
           <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="image-box-thum">
-                <img class="img-fullwidth" alt="" src="http://placehold.it/370x235">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 pb-sm-20">
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-responsible-energy-use text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Education</strong></h5>
+                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
+
+                </div>
               </div>
-              <div class="image-box-details bg-lighter p-15 pt-20 pb-sm-20">
-                <h3 class="title mt-0 mb-5"><a href="#">Poor Children Education</a></h3>
-                <div class="project-meta mb-10 font-12">
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Food</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Education</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Home</a></span>
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-shelter text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Protéger</strong></h5>
+                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
                 </div>
-                <p class="desc mb-10">Lorem ipsum dolor sit ametcon secte adipisicing elit Sintume likumta.</p>
-                <div class="progress-item mt-0">
-                  <div class="progress mb-10">
-                    <div data-percent="85" class="progress-bar"><span class="percent">0</span></div>
-                  </div>
-                </div>
-                <ul class="list-inline project-conditions text-center bg-deep m-0 p-10">
-                  <li class="current-fund"><strong>74%</strong>funded</li>
-                  <li class="target-fund"><strong>$100,000</strong>target</li>
-                  <li class="remaining-days"><strong>127</strong>days to go</li>
-                </ul>
-                <div><a href="page-donate.html" class="btn btn-sm btn-theme-colored mt-15 mb-5">Donate now</a></div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
-              <div class="image-box-thum">
-                <img class="img-fullwidth" alt="" src="http://placehold.it/370x235">
+            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 pb-sm-20">
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-hand-holding-a-heart text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Adoption</strong></h5>
+                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
+
+                </div>
               </div>
-              <div class="image-box-details bg-lighter p-15 pt-20 pb-sm-20">
-                <h3 class="title mt-0 mb-5"><a href="#">Poor Children Education</a></h3>
-                <div class="project-meta mb-10 font-12">
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Food</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Education</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Home</a></span>
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-health-insurance text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Services de santé</strong></h5>
+                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
+
                 </div>
-                <p class="desc mb-10">Lorem ipsum dolor sit ametcon secte adipisicing elit Sintume likumta.</p>
-                <div class="progress-item mt-0">
-                  <div class="progress mb-10">
-                    <div data-percent="85" class="progress-bar"><span class="percent">0</span></div>
-                  </div>
-                </div>
-                <ul class="list-inline project-conditions text-center bg-deep m-0 p-10">
-                  <li class="current-fund"><strong>74%</strong>funded</li>
-                  <li class="target-fund"><strong>$100,000</strong>target</li>
-                  <li class="remaining-days"><strong>127</strong>days to go</li>
-                </ul>
-                <div><a href="page-donate.html" class="btn btn-sm btn-theme-colored mt-15 mb-5">Donate now</a></div>
               </div>
             </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 mb-30">
+            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pb-sm-30">
               <div class="image-box-thum">
-                <img class="img-fullwidth" alt="" src="http://placehold.it/370x235">
+                <img class="img-fullwidth" alt="" src="images/home-image/img1.jpg">
               </div>
-              <div class="image-box-details bg-lighter p-15 pt-20 pb-sm-20">
-                <h3 class="title mt-0 mb-5"><a href="#">Poor Children Education</a></h3>
-                <div class="project-meta mb-10 font-12">
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Food</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Education</a></span>
-                  <span class="mr-10"><i class="fa fa-tags"></i> <a rel="tag" href="#">Home</a></span>
-                </div>
-                <p class="desc mb-10">Lorem ipsum dolor sit ametcon secte adipisicing elit Sintume likumta.</p>
-                <div class="progress-item mt-0">
-                  <div class="progress mb-10">
-                    <div data-percent="85" class="progress-bar"><span class="percent">0</span></div>
-                  </div>
-                </div>
-                <ul class="list-inline project-conditions text-center bg-deep m-0 p-10">
-                  <li class="current-fund"><strong>74%</strong>funded</li>
-                  <li class="target-fund"><strong>$100,000</strong>target</li>
-                  <li class="remaining-days"><strong>127</strong>days to go</li>
-                </ul>
-                <div><a href="page-donate.html" class="btn btn-sm btn-theme-colored mt-15 mb-5">Donate now</a></div>
-              </div>
+              <h4 class="mb-5"><em>Nous sommes des organismes de bienfaisance, sans but lucratif, de collecte de fonds, des ONG. Nos activités se déroulent dans le monde entier, contribuez avec nous par votre main pour une vie meilleure</em></h4>
+              <a class="font-14 text-theme-colored font-weight-600" href="">Lire la suite...</a>
             </div>
           </div>
         </div>
       </div>
     </section>
 
-    <section class="bg-lighter">
-      <div class="container pb-50">
-        <div class="row">
-          <div class="col-md-12">
-            <div class="section-title text-center">
-              <div class="row">
-                <div class="col-md-12">
-                  <h2 class="mt-0 text-uppercase font-28">Our Happy <span class="font-30 text-theme-colored">Donors</span></h2>
-                </div>
-              </div>
-            </div>
-            <div class="owl-carousel-6col" data-nav="true">
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-              <div class="item text-center">
-                <img alt="" src="http://placehold.it/360x360">
-                <div class="donor-details bg-white">
-                  <h4 class="m-0 pt-10 text-theme-colored">Mack Smith</h4>
-                  <p class="font-12 pb-10">Donated : $350</p>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
-    <!-- Section: -->
-    <section>
-      <div class="container pb-50">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-              <h2 class="mt-0 line-height-1 text-center text-uppercase font-28">Become a <span class="text-theme-colored">Volunteer</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur quidem temporibus quisquam voluptas natus, provident porro et odio perferendis ipsam, amet sint</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-6">
-              <h3 class="bg-theme-colored p-15 pl-30 mb-0 text-white">Become a Volunteer</h3>
-              <form id="volunteer_apply_form" class="bg-light p-30 pb-15" name="job_apply_form" action="includes/become-volunteer.php" method="post" enctype="multipart/form-data">
-                <div class="row">
-                  <div class="col-sm-6">
-                    <div class="form-group">
-                      <label>Name <small>*</small></label>
-                      <input name="form_name" type="text" placeholder="Enter Name" required="" class="form-control">
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-group">
-                      <label>Email <small>*</small></label>
-                      <input name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
-                    </div>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-sm-6">
-                    <div class="form-group">
-                      <label for="form_sex">Sex <small>*</small></label>
-                      <select id="form_sex" name="form_sex" class="form-control required">
-                        <option value="Male">Male</option>
-                        <option value="Female">Female</option>
-                      </select>
-                    </div>
-                  </div>
-                  <div class="col-sm-6">
-                    <div class="form-group">
-                      <label for="form_branch">Choose Branch <small>*</small></label>
-                      <select id="form_branch" name="form_branch" class="form-control required">
-                        <option value="UK">UK</option>
-                        <option value="USA">USA</option>
-                        <option value="Australia">Australia</option>
-                      </select>
-                    </div>
-                  </div>
-                </div>
-                <div class="form-group">
-                  <label>Message <small>*</small></label>
-                  <textarea name="form_message" class="form-control required" rows="5" placeholder="Your cover letter/message sent to the employer"></textarea>
-                </div>
-                <div class="form-group">
-                  <label for="form_attachment">C/V Upload</label>
-                  <input id="form_attachment" name="form_attachment" class="file" type="file" multiple data-show-upload="false" data-show-caption="true">
-                  <small>Maximum upload file size: 12 MB</small>
-                </div>
-                <div class="form-group">
-                  <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                  <button type="submit" class="btn btn-block btn-dark btn-theme-colored btn-sm mt-20 pt-10 pb-10" data-loading-text="Please wait...">Apply Now</button>
-                </div>
-              </form>
-              <!-- Job Form Validation-->
-              <script type="text/javascript">
-                $("#volunteer_apply_form").validate({
-                  submitHandler: function(form) {
-                    var form_btn = $(form).find('button[type="submit"]');
-                    var form_result_div = '#form-result';
-                    $(form_result_div).remove();
-                    form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
-                    var form_btn_old_msg = form_btn.html();
-                    form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
-                    $(form).ajaxSubmit({
-                      dataType: 'json',
-                      success: function(data) {
-                        if (data.status == 'true') {
-                          $(form).find('.form-control').val('');
-                        }
-                        form_btn.prop('disabled', false).html(form_btn_old_msg);
-                        $(form_result_div).html(data.message).fadeIn('slow');
-                        setTimeout(function() {
-                          $(form_result_div).fadeOut('slow')
-                        }, 6000);
-                      }
-                    });
-                  }
-                });
-              </script>
-            </div>
-            <div class="col-md-6 sm-text-center">
-              <img src="http://placehold.it/560x610" alt="">
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Divider: Funfact -->
-    <section class="divider parallax layer-overlay overlay-dark-6" data-bg-img="http://placehold.it/1920x1280" data-parallax-ratio="0.7">
+    <section class="divider parallax layer-overlay overlay-dark-6" data-bg-img="images/home-image/arrierePlan.svg" data-parallax-ratio="0.7">
       <div class="container pt-90 pb-90">
         <div class="row">
           <div class="col-xs-12 col-sm-6 col-md-3 mb-md-50 wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s">
@@ -858,214 +779,6 @@
       </div>
     </section>
 
-    <!-- Section: team -->
-    <section>
-      <div class="container pb-sm-30">
-        <div class="section-title">
-          <div class="row">
-            <div class="col-md-12">
-              <h2 class="mt-0 line-height-1 text-center text-uppercase font-28">Meet Our <span class="text-theme-colored">Volunteers</span></h2>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-3 mb-sm-30">
-              <div class="thumb"><img alt="" src="http://placehold.it/360x360" class="img-fullwidth"></div>
-              <div class="info">
-                <h4>Jone doe <small>- Manager</small></h4>
-                <p>Lorem ipsum dolor sit amet cing elit, consectetur adipisi cing elit. Vel consectetur adipisicing elit.</p>
-                <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-3 mb-sm-30">
-              <div class="thumb"><img alt="" src="http://placehold.it/360x360" class="img-fullwidth"></div>
-              <div class="info">
-                <h4>Jone doe <small>- Field Worker</small></h4>
-                <p>Lorem ipsum dolor sit amet cing elit, consectetur adipisi cing elit. Vel consectetur adipisicing elit.</p>
-                <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-3 mb-sm-30">
-              <div class="thumb"><img alt="" src="http://placehold.it/360x360" class="img-fullwidth"></div>
-              <div class="info">
-                <h4>Jone doe <small>- Field Worker</small></h4>
-                <p>Lorem ipsum dolor sit amet cing elit, consectetur adipisi cing elit. Vel consectetur adipisicing elit.</p>
-                <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                </ul>
-              </div>
-            </div>
-            <div class="col-md-3 mb-sm-30">
-              <div class="thumb"><img alt="" src="http://placehold.it/360x360" class="img-fullwidth"></div>
-              <div class="info">
-                <h4>Jone doe <small>- Field Worker</small></h4>
-                <p>Lorem ipsum dolor sit amet cing elit, consectetur adipisi cing elit. Vel consectetur adipisicing elit.</p>
-                <ul class="styled-icons icon-theme-colored icon-circled icon-dark icon-sm mt-15 mb-0">
-                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                  <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                  <li><a href="#"><i class="fa fa-skype"></i></a></li>
-                </ul>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section: testimonial -->
-    <section class="divider parallax layer-overlay overlay-dark-6" data-bg-img="http://placehold.it/1920x1280" data-parallax-ratio="0.7">
-      <div class="container">
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-              <div class="testimonial">
-                <div class="owl-carousel-1col" data-dots="true">
-                  <div class="item text-center">
-                    <p class="mb-0 font-droid font-22 text-white-f1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel esse quibusdam nihil a necessitatibus natus, voluptas fugiat officiis ipsa earum unde sit consequatur. Maxime harum ab pariatur obcaecati ut eos voluptatum.</p>
-                    <i class="fa fa-quote-left text-gray-lightgray font-42 mt-20"></i>
-                    <a class="mt-20 display-block" href="#">
-                      <img alt="" src="http://placehold.it/100x100" class="p-5 border-2px">
-                    </a>
-                    <h4 class="service-box-title font-weight-800 text-white-f1">Corvin Adams</h4>
-                    <span class="font-14 font-weight-600 text-white-f1">web Desinger (ceo)</span>
-                  </div>
-                  <div class="item text-center">
-                    <p class="mb-0 font-droid font-22 text-white-f1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel esse quibusdam nihil a necessitatibus natus, voluptas fugiat officiis ipsa earum unde sit consequatur. Maxime harum ab pariatur obcaecati ut eos voluptatum.</p>
-                    <i class="fa fa-quote-left text-gray-lightgray font-42 mt-20"></i>
-                    <a class="mt-20 display-block" href="#">
-                      <img alt="" src="http://placehold.it/100x100" class="p-5 border-2px">
-                    </a>
-                    <h4 class="service-box-title font-weight-800 text-white-f1">Corvin Adams</h4>
-                    <span class="font-14 font-weight-600 text-white-f1">web Desinger (ceo)</span>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Section: blog -->
-    <section id="blog">
-      <div class="container pb-sm-40">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-xs-12 col-sm-12 col-md-8 col-md-offset-2">
-              <h2 class="mt-0 line-height-1 text-uppercase font-28">Latest <span class="text-theme-colored font-weight-400">News</span> <span class="font-30 text-theme-colored"></span></h2>
-              <p class="lead">We are charity/ non-profit/ fundraising/ NGO organizations. Our charity activities are taken place around the
-                world,let contribute to them with us by your hand to be a better life</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <article class="post clearfix mb-sm-30 bg-lighter">
-                <div class="entry-header">
-                  <div class="post-thumb thumb">
-                    <img src="http://placehold.it/330x225" alt="" class="img-responsive img-fullwidth">
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="border-bottom">28</li>
-                        <li class="font-12 text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="#">Post title here</a></h4>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti, sint assumenda. Pariatur iste veritatis excepturi, ipsa optio nobis.</p>
-                  <a href="#" class="btn-read-more">Read more</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <article class="post clearfix mb-sm-30 bg-lighter">
-                <div class="entry-header">
-                  <div class="post-thumb thumb">
-                    <img src="http://placehold.it/330x225" alt="" class="img-responsive img-fullwidth">
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="border-bottom">28</li>
-                        <li class="font-12 text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="#">Post title here</a></h4>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti, sint assumenda. Pariatur iste veritatis excepturi, ipsa optio nobis.</p>
-                  <a href="#" class="btn-read-more">Read more</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4">
-              <article class="post clearfix mb-sm-30 bg-lighter">
-                <div class="entry-header">
-                  <div class="post-thumb thumb">
-                    <img src="http://placehold.it/330x225" alt="" class="img-responsive img-fullwidth">
-                  </div>
-                </div>
-                <div class="entry-content p-20 pr-10">
-                  <div class="entry-meta media mt-0 no-bg no-border">
-                    <div class="entry-date media-left text-center flip bg-theme-colored pt-5 pr-15 pb-5 pl-15">
-                      <ul>
-                        <li class="border-bottom">28</li>
-                        <li class="font-12 text-uppercase">Feb</li>
-                      </ul>
-                    </div>
-                    <div class="media-body pl-15">
-                      <div class="event-content pull-left flip">
-                        <h4 class="entry-title text-white text-uppercase m-0 mt-5"><a href="#">Post title here</a></h4>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-commenting-o mr-5 text-theme-colored"></i> 214 Comments</span>
-                        <span class="mb-10 text-gray-darkgray mr-10 font-13"><i class="fa fa-heart-o mr-5 text-theme-colored"></i> 895 Likes</span>
-                      </div>
-                    </div>
-                  </div>
-                  <p class="mt-10">Lorem ipsum dolor sit amet, consectetur adipisi cing elit. Molestias eius illum libero dolor nobis deleniti, sint assumenda. Pariatur iste veritatis excepturi, ipsa optio nobis.</p>
-                  <a href="#" class="btn-read-more">Read more</a>
-                  <div class="clearfix"></div>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Divider: Clients -->
     <section class="clients bg-theme-colored">
@@ -1074,8 +787,8 @@
           <div class="col-md-12">
             <!-- Section: Clients -->
             <div class="owl-carousel-6col text-center">
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+              <div class="item"> <a href="#"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="#"><img src="images/home-image/partenaires/ville-de-chartres.png" alt=""></a></div>
               <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
               <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
               <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
