@@ -9,9 +9,8 @@
             <div class="col-md-12 text-center">
               <h2 class="title">Contact</h2>
               <ol class="breadcrumb text-center text-black mt-10">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active text-theme-colored">Page Title</li>
+                <li><a href="/">Accueil</a></li>
+                <li class="active text-theme-colored">Contact</li>
               </ol>
             </div>
           </div>

@@ -10,46 +10,46 @@
             <ul>
 
               <!-- SLIDE 1 -->
-              <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
+              <li data-index="rs-1" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/image1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 1" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/sliders/slide1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <img src="images/sliders/image1.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-1" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['28']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:400; border-radius: 30px;">L'éducation est la seule arme à utiliser pour qu'on puisse changer le monde.
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-uppercase  bg-dark-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-1" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['28']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:400; border-radius: 30px;">L'éducation est la seule arme à utiliser pour qu'on puisse changer le monde.
+                </div> -->
 
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-2" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-20']" data-fontsize="['48']" data-lineheight="['70']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;">Aider les enfants
                 </div>
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white text-center" id="rs-1-layer-3" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['50']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-white text-center" id="rs-1-layer-3" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['50']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
-                <div class="tp-caption tp-resizeme" id="rs-1-layer-4" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['115']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-default btn-circled btn-transparent pl-20 pr-20" href="#">Faire un don maintenant</a>
+                <div class="tp-caption tp-resizeme" id="rs-1-layer-4" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['115']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
                 </div>
               </li>
 
               <!-- SLIDE 2 -->
-              <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 2" data-description="">
+              <li data-index="rs-2" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/image2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 2" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/sliders/slide2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <img src="images/sliders/image2.jpg" alt="" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-2-layer-1" data-x="['left']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-110']" data-fontsize="['25']" data-lineheight="['120']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700;">Puis ce que les enfants ont besoin de nous tous
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-2-layer-1" data-x="['left']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-110']" data-fontsize="['25']" data-lineheight="['120']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700;">Puis ce que les enfants ont besoin de nous tous
+                </div> -->
 
                 <!-- LAYER NR. 2 -->
                 <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pl-20 pr-20" id="rs-2-layer-2" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['35']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600; border-radius: 30px;">Engagement SOS École Afrique
                 </div>
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white" id="rs-2-layer-3" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Soyez Acteurs et Actrices pleinement engagés aux missions humanitaires et actions que SOS ECOLE AFRIQUE mènent depuis 2007
+                <!-- <div class="tp-caption tp-resizeme text-white" id="rs-2-layer-3" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Soyez Acteurs et Actrices pleinement engagés aux missions humanitaires et actions que SOS ECOLE AFRIQUE mènent depuis 2007
 
-                </div>
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption tp-resizeme" id="rs-2-layer-4" data-x="['left']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
@@ -57,22 +57,25 @@
               </li>
 
               <!-- SLIDE 3 -->
-              <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide3.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 3" data-description="">
+              <li data-index="rs-3" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/image3.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 3" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/sliders/slide3.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <img src="images/sliders/image3.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pr-20 pl-20" id="rs-3-layer-1" data-x="['right']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['64']" data-lineheight="['72']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;"><span class="">Pour les jeûnes </span> filles
+                <!-- <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway bg-theme-colored-transparent pr-20 pl-20" id="rs-3-layer-1" data-x="['right']" data-hoffset="['30']" data-y="['middle']" data-voffset="['-90']" data-fontsize="['64']" data-lineheight="['72']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;"><span class="">Pour les jeunes </span> filles
+                </div> -->
+
+                <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30" id="rs-3-layer-2" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-20']" data-fontsize="['48']" data-lineheight="['70']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;">Pour les jeunes filles
                 </div>
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-3-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Un coup de main pour le bien être de nos soeur, mariées forcées
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-3-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Un coup de main pour le bien être de nos soeur, mariées forcées
+                </div> -->
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white text-right" id="rs-3-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-white text-right" id="rs-3-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption tp-resizeme" id="rs-3-layer-4" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
@@ -80,9 +83,9 @@
               </li>
 
               <!-- SLIDE 3 -->
-              <li data-index="rs-4" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/slide4.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 3" data-description="">
+              <li data-index="rs-4" data-transition="slidingoverlayhorizontal" data-slotamount="default" data-easein="default" data-easeout="default" data-masterspeed="default" data-thumb="images/sliders/image4.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide 4" data-description="">
                 <!-- MAIN IMAGE -->
-                <img src="images/sliders/slide4.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
+                <img src="images/sliders/image4.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" class="rev-slidebg" data-bgparallax="10" data-no-retina>
                 <!-- LAYERS -->
 
                 <!-- LAYER NR. 1 -->
@@ -90,12 +93,12 @@
                 </div>
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-4-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Chaque enfant ne doit-il pas avoir son droit de solarité ?
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-uppercase text-white font-raleway" id="rs-4-layer-2" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['-25']" data-fontsize="['32']" data-lineheight="['54']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:600;">Chaque enfant ne doit-il pas avoir son droit de solarité ?
+                </div> -->
 
                 <!-- LAYER NR. 3 -->
-                <div class="tp-caption tp-resizeme text-white text-right" id="rs-4-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
-                </div>
+                <!-- <div class="tp-caption tp-resizeme text-white text-right" id="rs-4-layer-3" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['30']" data-fontsize="['14','16',20']" data-lineheight="['25']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:0px; font-weight:400;">Les meilleures et les plus belles choses du monde ne peuvent être vues ni même touchées, elles doivent être ressenties avec le cœur.
+                </div> -->
 
                 <!-- LAYER NR. 4 -->
                 <div class="tp-caption tp-resizeme" id="rs-4-layer-4" data-x="['right']" data-hoffset="['35']" data-y="['middle']" data-voffset="['95']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;" data-transform_in="y:[100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;opacity:0;s:2000;e:Power4.easeInOut;" data-transform_out="y:[100%];s:1000;e:Power2.easeInOut;s:1000;e:Power2.easeInOut;" data-mask_in="x:0px;y:[100%];s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1400" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 5; white-space: nowrap; letter-spacing:1px;"><a class="btn btn-colored btn-lg btn-flat btn-theme-colored pl-20 pr-20" href="#">Faire un don maintenant</a>
@@ -255,6 +258,114 @@
       </div>
     </section>
 
+
+    <!-- Section: About  -->
+    <section id="about">
+      <div class="container-fluid pb-30">
+        <div class="section-title text-center">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+              <h2 class="mt-0 line-height-1 text-uppercase font-28">Ce que nous voulons accomplir</h2>
+              <p class="lead">Nous sommes des organisations caritatives / à but non lucratif / de collecte de fonds / ONG. Nos activités caritatives se déroulent dans le monde entier, contribuons avec nous par votre main pour une vie meilleure</p>
+            </div>
+          </div>
+        </div>
+        <div class="section-content">
+          <div class="row">
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pb-sm-20">
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-responsible-energy-use text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant écolier soldat</strong></h5>
+                  <p class="text-gray">40% des enfants soldats sont des filles.
+                    Ils s'en servent aussi comme petite main, comme espion, comme soigneur, comme messagers et malheureusement comme esclave sexuel.
+                    Des guerres dramatiques qui violent bon nombre des droits de l'enfant, le droit à la vie, à la santé, à l'eau et surtout le droit d'être protégé.
+                    Au mali, plus de 1800 écoles sont fermées, en raisons d'attaques ou menaces directs de groupes armées,une situation très alarmante à déplorer.
+                    Ces groupes armées enlévent des enseignants, incendient des écoles et du matériel scolaire déjà cruellement en fort déficit, puis tirant des coups de fusils durant les cours, laissant les écoliers dans une terreur noire.
+
+                    Les enfants déscolarisés vont dans les champs, les plantations aux villages
+                    découlant de la pauvreté des familles. Les frais de scolarité étant très couteux ( fournitures scolaires, vetements, chaussures, cartables sont des barriéres à l' éducation.
+
+                    Et le manque d'écoles proche du domicile des enfants, le manque de sécurité, car les enfants peuvent avoir de grandes distances à parcourir pour aller à l'école sur des chemins très dangereux ( groupes armées), sont d'autant plus de facteurs qui expliquent le taux élévé de déscolarisation et d'abandon scolaire
+
+                  </p>
+
+                </div>
+              </div>
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-shelter text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant écolier</strong></h5>
+                  <p class="text-gray">Avec ses 52 millions d'orphelins, l'Afrique abrite à elle seule plus d'un quart de leur population mondiale. Selon les projections, plus de 30% des jeunes africains sont orphelins.
+                    Les filles sont les plus touchés par la précarités du quotidien ( la pauvreté des ménages, le travaux forcés des garcons plus grands, le mariage forcée infantiles des filles, l'insécurité) , dans laquelle vivent des milices.
+                    Confrontées à une hygiéne déplorable, elles sont aussi touchées par le VIH, les MST et beaucoup meurent en fausse couches.
+                    Deviennent souvent des épouses de guerre et sont mariées de force aux chefs des milices considéres comme objet sexuel .
+                    Mais l'une des causes premiéres associées à l'origine de l'orphelinat est l'épidémie du VIH/SIDA.Un enfant devient orphelin parce qu'un de ces parents est décédé du VIH. Il peut ou non avoir contracté la maladie.
+                    Offrez un avenir meilleur aux orphelins en participant à notre programme de parrainnage d'orphelins. Ce programme apporte un soutien financier trimestriel aux tuteurs des orphelins allégent ainsi leur fardeau économique.Grace à votre générosité, vous contribuez à couvrir les besoins essentiels et nourriture,logement,lait infantile, habillement, soins médicaux et matériel éducatif, ainsi une vie digne et sécurisée pour ces enfants vulnerables.
+                  </p>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pb-sm-20">
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-hand-holding-a-heart text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant orphelin</strong></h5>
+                  <p class="text-gray">De nombreuses écoles,sont de plus en plus entiérement privées d'accées à l' eau potable causant 2,2 millions de morts chaque année dans le monde et les enfants de moins de 5ans (décés) en forte augmentation, à des sanitaires ( toilettes/lavabo ) et d 'éléctricité, ne disposant pas de structures d'assainissement.
+                    L'hygiéne est non seulement essentiel à la prévention et au contrôle efficace des maladies et des infections cholera/typhoide), mais aussi une condition préalable à la santé, au développement et au bien être des enfants
+                    les écoles devraient être des lieux où les enfants s'épanouissent et non des lieux où ils sont soumis à des difficultés ou des infections dues à l'absence d'infrastructeurs, de moyens.
+                    <strong>'eau : notre cœur de mission, source de vie, de développement et d'éducation, l'eau est malheuresement encore trop souvent source de pauvreté, de maladie et de mort, c'est pourquoi SOS ECOLE AFRIQUE a fait de l'accés à l'eau potable POUR TOUS, notre combat
+                      MAJEUR.</strong>
+                    L'afrique subsaharienne est la seule région du monde où la couverture des services d'assainissement et d'hygiéne de base dans les écoles reste inférieure à 50% ( 1 école sur 3 ).
+                    Des populations entiéres forcées de se déplacer vers des sources éloignées pour pouvoir s'approvisionner en eau.
+                  </p>
+
+                </div>
+              </div>
+              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-health-insurance text-theme-colored font-48"></i>
+                </a>
+                <div class="ml-80">
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Don à SOS ECOLE AFRIQUE</strong></h5>
+                  <p class="text-gray">Lèducation des filles est un domaine dans lequel l'Afrique a cruellement besoin de progresser. Moins d'une ( fille / femme africaine) sur 5 ne fréquente pas les bancs de l'école, un dur frein à la croissance.
+
+                    Il est alors tres difficile aux femmes de pouvoir trouver leur place sur le marché du travail et aider la communauté à sortir de la pauvreté,puis sa faible participation ou intégration dans les activités socio-économiques et le poids des coutumes et traditions.
+
+                    Les femmes africaines sont des agricultrices fort courageuses et éxecutent 70% au moins des taches agricoles.
+
+                    Elles étaient totalement absentes des activités génératrices de revenus.
+                    Mais aujourdhui, la pente connaît un réel redressement.
+
+                    Grâce aux (INITIATIVES AGROFORESTIERES/ GROUPEMENT DE FEMMES: ( FEMME DE TERRE/ ASSOCIATION FORESTIERE DES FEMMES et LES JARDINS DE MON VILLAGE).
+
+                    Ces plantations s'inscrivent dans un grand projet d'avenir dont le but est de reverdir le paysage, de relancer l'agriculture locale et de soutenir l'émancipation des femmes en lui offrant des opportunités de travail et d'autonomie.
+
+                    La plantation d'arbres fruitiers et de cultures légumiéres permet à des villages en Afrique de générer des revenus sur le long terme grâce à la revente des fruits et légumes sur les marchés locaux.
+
+                  </p>
+
+                </div>
+              </div>
+            </div>
+            <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pb-sm-30">
+              <div class="image-box-thum">
+                <img class="img-fullwidth" alt="" src="images/home-image/img1.jpg">
+              </div>
+              <h4 class="mb-5"><em>Nous sommes des organismes de bienfaisance, sans but lucratif, de collecte de fonds, des ONG. Nos activités se déroulent dans le monde entier, contribuez avec nous par votre main pour une vie meilleure</em></h4>
+              <a class="font-14 text-theme-colored font-weight-600" href="">Lire la suite...</a>
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </section>
+
     <!-- Section: Our Mission & Upcoming Events -->
     <section>
       <div class="container pb-40">
@@ -340,6 +451,7 @@
         </div>
       </div>
     </section>
+
 
 
     <!-- Section: Divider -->
@@ -621,7 +733,7 @@
                       </ul>
                       <div class="mt-10 clearfix">
                         <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
-                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donors</div>
+                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donateurs</div>
                       </div>
                     </div>
                   </div>
@@ -647,82 +759,12 @@
                       </ul>
                       <div class="mt-10 clearfix">
                         <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
-                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donors</div>
+                        <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donateurs</div>
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-
-    <!-- Section: About  -->
-    <section id="about">
-      <div class="container pb-30">
-        <div class="section-title text-center">
-          <div class="row">
-            <div class="col-md-8 col-md-offset-2">
-              <h2 class="mt-0 line-height-1 text-uppercase font-28">Ce que nous voulons accomplir</h2>
-              <p class="lead">Nous sommes des organisations caritatives / à but non lucratif / de collecte de fonds / ONG. Nos activités caritatives se déroulent dans le monde entier, contribuons avec nous par votre main pour une vie meilleure</p>
-            </div>
-          </div>
-        </div>
-        <div class="section-content">
-          <div class="row">
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 pb-sm-20">
-              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a href="#" class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-responsible-energy-use text-theme-colored font-48"></i>
-                </a>
-                <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Education</strong></h5>
-                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
-
-                </div>
-              </div>
-              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a href="#" class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-shelter text-theme-colored font-48"></i>
-                </a>
-                <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Protéger</strong></h5>
-                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 pb-sm-20">
-              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a href="#" class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-hand-holding-a-heart text-theme-colored font-48"></i>
-                </a>
-                <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Adoption</strong></h5>
-                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
-
-                </div>
-              </div>
-              <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a href="#" class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-health-insurance text-theme-colored font-48"></i>
-                </a>
-                <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Services de santé</strong></h5>
-                  <p class="text-gray">Lorem ipsum dolor sit ametcon elit sectetu radipisicing. Mollitia quasi quinven tore, cumque nulla consectetu radipi sicing</p>
-
-                </div>
-              </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-4 col-lg-4 pb-sm-30">
-              <div class="image-box-thum">
-                <img class="img-fullwidth" alt="" src="images/home-image/img1.jpg">
-              </div>
-              <h4 class="mb-5"><em>Nous sommes des organismes de bienfaisance, sans but lucratif, de collecte de fonds, des ONG. Nos activités se déroulent dans le monde entier, contribuez avec nous par votre main pour une vie meilleure</em></h4>
-              <a class="font-14 text-theme-colored font-weight-600" href="">Lire la suite...</a>
             </div>
           </div>
         </div>
@@ -741,7 +783,7 @@
               <div class="ml-60">
                 <h2 class="animate-number text-white-f1 mt-0 font-48 line-bottom" data-value="754" data-animation-duration="2000">0</h2>
                 <div class="clearfix"></div>
-                <h4 class="font-14 text-white-f1">Happy Donators</h4>
+                <h4 class="font-14 text-white-f1">Donateurs heureux</h4>
               </div>
             </div>
           </div>
@@ -751,7 +793,7 @@
               <div class="ml-60">
                 <h2 class="animate-number text-white-f1 mt-0 font-48 line-bottom" data-value="125" data-animation-duration="2500">0</h2>
                 <div class="clearfix"></div>
-                <h4 class="font-14 text-white-f1">Success Mission</h4>
+                <h4 class="font-14 text-white-f1">Mission de réussite</h4>
               </div>
             </div>
           </div>
@@ -761,7 +803,7 @@
               <div class="ml-60">
                 <h2 class="animate-number text-white-f1 mt-0 font-48 line-bottom" data-value="150" data-animation-duration="3000">0</h2>
                 <div class="clearfix"></div>
-                <h4 class="font-14 text-white-f1">Volunteer Reached</h4>
+                <h4 class="font-14 text-white-f1">Bénévoles touchés</h4>
               </div>
             </div>
           </div>
@@ -771,7 +813,7 @@
               <div class="ml-60">
                 <h2 class="animate-number text-white-f1 mt-0 font-48 line-bottom" data-value="55" data-animation-duration="3500">0</h2>
                 <div class="clearfix"></div>
-                <h4 class="font-14 text-white-f1">Globalization Work</h4>
+                <h4 class="font-14 text-white-f1">Pays d'intervation</h4>
               </div>
             </div>
           </div>
@@ -786,17 +828,25 @@
         <div class="row">
           <div class="col-md-12">
             <!-- Section: Clients -->
-            <div class="owl-carousel-6col text-center">
-              <div class="item"> <a href="#"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
-              <div class="item"> <a href="#"><img src="images/home-image/partenaires/ville-de-chartres.png" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
-              <div class="item"> <a href="#"><img src="http://placehold.it/200x120" alt=""></a></div>
+            <div class="owl-carousel-6col">
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
+              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
             </div>
           </div>
         </div>

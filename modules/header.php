@@ -14,7 +14,7 @@
       <title>SOS École Afrique</title>
 
       <!-- Favicon and Touch Icons -->
-      <link href="images/favicon.png" rel="shortcut icon" type="image/png">
+      <link href="images/favicon.ico" rel="shortcut icon" type="image/png">
       <link href="images/apple-touch-icon.png" rel="apple-touch-icon">
       <link href="images/apple-touch-icon-72x72.png" rel="apple-touch-icon" sizes="72x72">
       <link href="images/apple-touch-icon-114x114.png" rel="apple-touch-icon" sizes="114x114">
@@ -82,14 +82,13 @@
                         <div class="header-nav-wrapper">
                               <div class="container">
                                     <nav id="menuzord-right" class="menuzord default no-bg">
-                                          <a class="menuzord-brand flip xs-pull-center" href="index-mp-layout1.html"><img src="images/logo-sos-ecole-afrique.png" alt=""></a>
+                                          <a class="menuzord-brand flip xs-pull-center" href="index-mp-layout1.html"><img src="images/logo.png" alt=""></a>
                                           <ul class="menuzord-menu">
                                                 <li class="active"><a href="#">Accueil</a></li>
-                                                <li><a href="#">SOS École Afrique</a></li>
+                                                <li><a href="#">Parrainage Ecolier Orphelin</a></li>
                                                 <li><a href="#">Devenir bénévole</a></li>
-                                                <li><a href="#">Pages</a></li>
                                                 <li><a href="galerie">Galerie</a>
-                                                      <ul class="dropdown">
+                                                      <!-- <ul class="dropdown">
                                                             <li><a href="page-gallery-3col.html">3 Columns</a></li>
                                                             <li><a href="page-gallery-3col-only-image.html">3 Columns Only Image</a></li>
                                                             <li><a href="page-gallery-4col.html">4 Columns</a></li>
@@ -101,7 +100,7 @@
                                                             <li><a href="page-gallery-masonry-tiles.html">Tiles (2-10 Columns)</a></li>
                                                             <li><a href="page-gallery-masonry-tiles-animation.html">Tiles with Animation (2-10 Columns)</a></li>
                                                             <li><a href="page-gallery-prettyphoto.html">Pretty Photo Gallery</a></li>
-                                                      </ul>
+                                                      </ul> -->
                                                 </li>
                                                 <li><a href="contact">Contact</a></li>
                                           </ul>
