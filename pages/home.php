@@ -209,6 +209,7 @@
     </section>
 
 
+    <!-- Section: 4 cartes  -->
     <section>
       <div class="container-fluid p-0 p-sm-15">
         <div class="section-content text-center">
@@ -257,9 +258,10 @@
         </div>
       </div>
     </section>
+    <!-- Eo section: 4 cartes  -->
 
 
-    <!-- Section: About  -->
+    <!-- Section: Ce que nous voulons accomplir  -->
     <section id="about">
       <div class="container-fluid pb-30">
         <div class="section-title text-center">
@@ -365,8 +367,9 @@
         </div>
       </div>
     </section>
+    <!-- EO section: Ce que nous voulons accomplir  -->
 
-    <!-- Section: Our Mission & Upcoming Events -->
+    <!-- Section: Bienvenue sur SOS ÉCOLE AFRIQUE -->
     <section>
       <div class="container pb-40">
         <div class="section-content">
@@ -401,48 +404,48 @@
               <div class="event media mb-20 no-bg no-border">
                 <div class="event-date media-left text-center flip bg-theme-colored p-20">
                   <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">01</li>
-                    <li class="font-22 text-white text-uppercase">Jan</li>
+                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">31</li>
+                    <li class="font-22 text-white text-uppercase">Déc</li>
                   </ul>
                 </div>
                 <div class="media-body pl-20">
                   <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Remise des kits solaire</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Restauration école village</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 12h à 14h</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Tango (MALI)</span>
+                    <p class="mt-5">Distribution colis alimentaire, bancs scolaires</p>
+                  </div>
+                </div>
+              </div>
+              <div class="event media mb-20 no-bg no-border">
+                <div class="event-date media-left text-center flip bg-theme-colored p-20">
+                  <ul>
+                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">15</li>
+                    <li class="font-22 text-white text-uppercase">Juin</li>
+                  </ul>
+                </div>
+                <div class="media-body pl-20">
+                  <div class="event-content pull-left flip">
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Lancement des travaux puits</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 08h à 16h</span>
+                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Tango (MALI)</span>
+                    <p class="mt-5">Colis alimentaire aux écoliers orphélins, soutien et groupement des femmes du village de Tango (plantation d'arbres fruitiers, légumiers)</p>
+                  </div>
+                </div>
+              </div>
+              <div class="event media mb-20 no-bg no-border">
+                <div class="event-date media-left text-center flip bg-theme-colored p-20">
+                  <ul>
+                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">20</li>
+                    <li class="font-22 text-white text-uppercase">Nov</li>
+                  </ul>
+                </div>
+                <div class="media-body pl-20">
+                  <div class="event-content pull-left flip">
+                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Étude menuiserie, jeux en bois (cours de récréation)</a></h4>
+                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 18h</span>
                     <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Tango(MALI)</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
-                  </div>
-                </div>
-              </div>
-              <div class="event media mb-20 no-bg no-border">
-                <div class="event-date media-left text-center flip bg-theme-colored p-20">
-                  <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Fev</li>
-                  </ul>
-                </div>
-                <div class="media-body pl-20">
-                  <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Lancement des travail puit</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Nioro(MALI)</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
-                  </div>
-                </div>
-              </div>
-              <div class="event media mb-20 no-bg no-border">
-                <div class="event-date media-left text-center flip bg-theme-colored p-20">
-                  <ul>
-                    <li class="font-30 text-white font-weight-600 border-bottom pb-10">28</li>
-                    <li class="font-22 text-white text-uppercase">Avr</li>
-                  </ul>
-                </div>
-                <div class="media-body pl-20">
-                  <div class="event-content pull-left flip">
-                    <h4 class="event-title media-heading font-raleway font-weight-700"><a href="#">Remise des vivres</a></h4>
-                    <span class="mb-10 text-gray-darkgray mr-10"><i class="fa fa-clock-o mr-5 text-theme-colored"></i> 10h à 20h</span>
-                    <span class="text-gray-darkgray"><i class="fa fa-map-marker mr-5"></i> Kalaban(Bamako, MALI)</span>
-                    <p class="mt-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Commod</p>
+                    <p class="mt-5">Distributions matérielles scolaires, campagne de vaccinations</p>
                   </div>
                 </div>
               </div>
@@ -451,6 +454,7 @@
         </div>
       </div>
     </section>
+    <!-- EO section: Bienvenue sur SOS ÉCOLE AFRIQUE -->
 
 
 

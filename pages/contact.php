@@ -1,29 +1,12 @@
   <!-- Start main-content -->
   <div class="main-content">
-    <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="http://placehold.it/1920x1280">
-      <div class="container pt-60 pb-60">
-        <!-- Section Content -->
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-12 text-center">
-              <h2 class="title">Contact</h2>
-              <ol class="breadcrumb text-center text-black mt-10">
-                <li><a href="/">Accueil</a></li>
-                <li class="active text-theme-colored">Contact</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <!-- Divider: Contact -->
-    <section class="divider">
+    <section class="divider" style="margin: 100px 0 0 0;">
       <div class="container">
         <div class="row pt-30">
           <div class="col-md-6">
-            <h3 class="line-bottom mt-0 mb-30">Interested in discussing?</h3>
+            <h3 class="line-bottom mt-0 mb-30">Vous souhaitez nous en parler ?</h3>
 
             <!-- Contact Form -->
             <form id="contact_form" name="contact_form" class="" action="includes/sendmail.php" method="post">
@@ -31,41 +14,51 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Name <small>*</small></label>
-                    <input name="form_name" class="form-control" type="text" placeholder="Enter Name" required="">
+                    <label>Nom <small>*</small></label>
+                    <input name="nom" class="form-control" type="text" placeholder="Ex: Dupont Michel" required>
                   </div>
                 </div>
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Email <small>*</small></label>
-                    <input name="form_email" class="form-control required email" type="email" placeholder="Enter Email">
+                    <label>Prénom <small>*</small></label>
+                    <input name="prenom" class="form-control" type="text" placeholder="Ex: Dupont Michel" required>
                   </div>
                 </div>
               </div>
 
               <div class="row">
+
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Subject <small>*</small></label>
-                    <input name="form_subject" class="form-control required" type="text" placeholder="Enter Subject">
+                    <label>Téléphone</label>
+                    <input name="telephone" class="form-control" type="text" placeholder="Ex: 06 01 02 03 04" required>
                   </div>
                 </div>
+
                 <div class="col-sm-6">
                   <div class="form-group">
-                    <label>Phone</label>
-                    <input name="form_phone" class="form-control" type="text" placeholder="Enter Phone">
+                    <label>Email <small>*</small></label>
+                    <input name="email" class="form-control required email" type="email" placeholder="Ex: mon@mail.com" required>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-sm-12">
+                  <div class="form-group">
+                    <label>Sujet <small>*</small></label>
+                    <input name="sujet" class="form-control required" type="text" placeholder="Ex: Comment aider les pauvres au Mali" required>
                   </div>
                 </div>
               </div>
 
               <div class="form-group">
                 <label>Message</label>
-                <textarea name="form_message" class="form-control required" rows="5" placeholder="Enter Message"></textarea>
+                <textarea name="message" class="form-control required" rows="5" placeholder="Votre message..." required></textarea>
               </div>
+              <p>En envoyant ce formulaire vous acceptez <a href="rgpd" style="color:blue" target="_blank">la politique de protection des données personnelles </a> de SOS École Afrique</p>
               <div class="form-group">
                 <input name="form_botcheck" class="form-control" type="hidden" value="" />
-                <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Please wait...">Send your message</button>
-                <button type="reset" class="btn btn-default btn-flat btn-theme-colored">Reset</button>
+                <button type="submit" class="btn btn-dark btn-theme-colored btn-flat mr-5" data-loading-text="Please wait...">Envoyer</button>
               </div>
             </form>
 
@@ -97,40 +90,31 @@
             </script>
           </div>
           <div class="col-md-6">
-            <h3 class="line-bottom mt-0">Get in touch with us</h3>
+            <h3 class="line-bottom mt-0">Prendre contact avec nous</h3>
             <p>Aliquam officia dolor rerum enim doloremque iusto eos atque tempora dignissimos similique, quae, maxime sit accusantium delectus.</p>
             <ul class="styled-icons icon-dark icon-sm icon-circled mb-20">
               <li><a href="#" data-bg-color="#3B5998"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#" data-bg-color="#02B0E8"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#" data-bg-color="#4C75A3"><i class="fa fa-vk"></i></a></li>
+              <li><a href="#" data-bg-color="#C15561"><i class="fa fa-youtube"></i></a></li>
               <li><a href="#" data-bg-color="#D9CCB9"><i class="fa fa-instagram"></i></a></li>
-              <li><a href="#" data-bg-color="#D71619"><i class="fa fa-google-plus"></i></a></li>
-              <li><a href="#" data-bg-color="#A4CA39"><i class="fa fa-android"></i></a></li>
-              <li><a href="#" data-bg-color="#4C75A3"><i class="fa fa-vk"></i></a></li>
+
             </ul>
 
             <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-20" href="#"> <i class="pe-7s-map-2 text-theme-colored"></i></a>
               <div class="media-body">
-                <h5 class="mt-0">Our Office Location</h5>
-                <p>#405, Lan Streen, Los Vegas, USA</p>
+                <h5 class="mt-0">Localisation</h5>
+                <p>2 place ddu marché 28300 Mainvilliers</p>
               </div>
             </div>
             <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-15" href="#"> <i class="pe-7s-call text-theme-colored"></i></a>
               <div class="media-body">
-                <h5 class="mt-0">Contact Number</h5>
-                <p><a href="tel:+325-12345-65478">+325-12345-65478</a></p>
+                <h5 class="mt-0">Contact</h5>
+                <p><a href="tel:+325-12345-65478">+336 27 01 55 23</a></p>
               </div>
             </div>
             <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-15" href="#"> <i class="pe-7s-mail text-theme-colored"></i></a>
               <div class="media-body">
-                <h5 class="mt-0">Email Address</h5>
-                <p><a href="mailto:supporte@yourdomin.com">supporte@yourdomin.com</a></p>
-              </div>
-            </div>
-            <div class="icon-box media mb-15"> <a class="media-left pull-left flip mr-20" href="#"> <i class="fa fa-skype text-theme-colored"></i></a>
-              <div class="media-body">
-                <h5 class="mt-0">Make a Video Call</h5>
-                <p>ThemeMascotSkype</p>
+                <h5 class="mt-0">Adresse mail</h5>
+                <p><a href="mailto:supporte@yourdomin.com">seafrique602@gmail.com</a></p>
               </div>
             </div>
           </div>
@@ -142,14 +126,7 @@
     <section>
       <div class="container-fluid pt-0 pb-0">
         <div class="row">
-
-          <!-- Google Map HTML Codes -->
-          <div id="map-canvas-multipointer" data-mapstyle="default" data-height="500" data-zoom="15" data-marker="images/map-marker.png">
-          </div>
-          <!-- Google Map Javascript Codes -->
-          <script src="http://maps.google.com/maps/api/js?key=AIzaSyAYWE4mHmR9GyPsHSOVZrSCOOljk8DU9B4"></script>
-          <script src="js/google-map-init-multilocation.js"></script>
-
+          <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2646.282790691497!2d1.459935076737582!3d48.451103429281986!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e40c0ce5eb9bd3%3A0xf43021195960eae7!2s2%20Pl.%20du%20March%C3%A9%2C%2028300%20Mainvilliers!5e0!3m2!1sfr!2sfr!4v1722944503344!5m2!1sfr!2sfr" width="600" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
       </div>
     </section>

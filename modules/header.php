@@ -84,9 +84,9 @@
                                     <nav id="menuzord-right" class="menuzord default no-bg">
                                           <a class="menuzord-brand flip xs-pull-center" href="index-mp-layout1.html"><img src="images/logo.png" alt=""></a>
                                           <ul class="menuzord-menu">
-                                                <li class="active"><a href="#">Accueil</a></li>
-                                                <li><a href="#">Parrainage Ecolier Orphelin</a></li>
-                                                <li><a href="#">Devenir bénévole</a></li>
+                                                <li class="active"><a href="/">Accueil</a></li>
+                                                <li><a href="parrainage">Parrainage Ecolier Orphelin</a></li>
+                                                <li><a href="mission-terrain">Mission terrain</a></li>
                                                 <li><a href="galerie">Galerie</a>
                                                       <!-- <ul class="dropdown">
                                                             <li><a href="page-gallery-3col.html">3 Columns</a></li>
