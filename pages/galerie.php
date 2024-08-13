@@ -1,27 +1,8 @@
   <!-- Start main-content -->
   <div class="main-content">
 
-    <!-- Section: inner-header -->
-    <section class="inner-header divider parallax layer-overlay overlay-white-8" data-bg-img="http://placehold.it/1920x1280">
-      <div class="container pt-60 pb-60">
-        <!-- Section Content -->
-        <div class="section-content">
-          <div class="row">
-            <div class="col-md-12 text-center">
-              <h2 class="title">Gallery (Only Image)</h2>
-              <ol class="breadcrumb text-center text-black mt-10">
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Pages</a></li>
-                <li class="active text-theme-colored">Page Title</li>
-              </ol>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
     <!-- Gallery Grid 3 -->
-    <section>
+    <section class="divider" style="margin: 100px 0 0 0;">
       <div class="container">
         <div class="section-content">
           <div class="row">

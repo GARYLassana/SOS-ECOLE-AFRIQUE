@@ -87,21 +87,7 @@
                                                 <li class="active"><a href="/">Accueil</a></li>
                                                 <li><a href="parrainage">Parrainage Ecolier Orphelin</a></li>
                                                 <li><a href="mission-terrain">Mission terrain</a></li>
-                                                <li><a href="galerie">Galerie</a>
-                                                      <!-- <ul class="dropdown">
-                                                            <li><a href="page-gallery-3col.html">3 Columns</a></li>
-                                                            <li><a href="page-gallery-3col-only-image.html">3 Columns Only Image</a></li>
-                                                            <li><a href="page-gallery-4col.html">4 Columns</a></li>
-                                                            <li><a href="page-gallery-4col-only-image.html">4 Columns Only Image</a></li>
-                                                            <li><a href="page-gallery-grid.html">Grids (2-10 Columns)</a></li>
-                                                            <li><a href="page-gallery-grid-animation.html">Grids with Animation (2-10 Columns)</a></li>
-                                                            <li><a href="page-gallery-3col-tiles.html">3 Columns Tiles</a></li>
-                                                            <li><a href="page-gallery-4col-tiles.html">4 Columns Tiles</a></li>
-                                                            <li><a href="page-gallery-masonry-tiles.html">Tiles (2-10 Columns)</a></li>
-                                                            <li><a href="page-gallery-masonry-tiles-animation.html">Tiles with Animation (2-10 Columns)</a></li>
-                                                            <li><a href="page-gallery-prettyphoto.html">Pretty Photo Gallery</a></li>
-                                                      </ul> -->
-                                                </li>
+                                                <li><a href="galerie">Galerie</a></li>
                                                 <li><a href="contact">Contact</a></li>
                                           </ul>
                                     </nav>
