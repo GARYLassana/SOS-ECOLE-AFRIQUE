@@ -9,8 +9,8 @@ if (empty($_GET['page'])) {
 	include('pages/home.php');
 } else if ($_GET['page'] == "parrainage") {
 	include('pages/parrainage.php');
-} else if ($_GET['page'] == "mission-terrain") {
-	include('pages/mission-terrain.php');
+} else if ($_GET['page'] == "missionTerrain") {
+	include('pages/missionTerrain.php');
 } else if ($_GET['page'] == "galerie") {
 	include('pages/galerie.php');
 } else if ($_GET['page'] == "contact") {
