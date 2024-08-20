@@ -275,7 +275,7 @@
                 }
 
                 figcaption div .contribution {
-                  padding: 10px 50px !important;
+                  padding: 10px 50px;
                   font-size: large;
                 }
 
@@ -283,6 +283,10 @@
                   display: initial;
                 }
 
+                figcaption .prix {
+                  margin: 0 !important;
+                  padding: 0 !important;
+                }
 
                 .panel-content li {
                   list-style-type: disc;
@@ -296,6 +300,28 @@
 
                 .list li {
                   list-style-type: square;
+                }
+
+                @media only screen and (max-width: 992px) {
+                  figcaption {
+                    display: initial !important;
+                  }
+                }
+
+                @media only screen and (max-width: 600px) {
+                  figcaption {
+                    display: initial !important;
+                    height: 100px;
+                  }
+
+                  figcaption .prix {
+                    font-size: 22px !important;
+                  }
+
+                  figcaption .contribution {
+                    font-size: 13px !important;
+                    padding: 8px !important;
+                  }
                 }
               </style>
             </div>

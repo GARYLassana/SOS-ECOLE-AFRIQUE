@@ -26,7 +26,7 @@
                               <ul class="list-border font-13">
                                     <li><i class="fa fa-phone text-theme-colored mr-5"></i><a href="tel:+336 27 01 55 23">+336 27 01 55 23</a></li>
                                     <li><i class="fa fa-envelope-o text-theme-colored mr-5"></i><a href="mailTo:seafrique602@gmail.com">seafrique602@gmail.com</a></li>
-                                    <li><i class="fa fa-map text-theme-colored mr-5"></i><a href="#" class="lineheight-20">2 place ddu marché 28300 Mainvilliers</a></li>
+                                    <li><i class="fa fa-map text-theme-colored mr-5"></i><a target="_blank" href="https://maps.app.goo.gl/zbdEt3R5XhKPjoSH8" class="lineheight-20">2 place ddu marché 28300 Mainvilliers</a></li>
                               </ul>
                         </div>
                         <div class="widget dark">

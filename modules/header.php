@@ -66,14 +66,14 @@
 <body class="">
       <div id="wrapper" class="clearfix">
             <!-- preloader -->
-            <div id="preloader">
+            <!-- <div id="preloader">
                   <div id="spinner">
                         <div class="preloader-dot-loading">
                               <div class="cssload-loading"><i></i><i></i><i></i><i></i></div>
                         </div>
                   </div>
                   <div id="disable-preloader" class="btn btn-default btn-sm">En cours de chargement...</div>
-            </div>
+            </div> -->
 
             <!-- Header -->
             <header id="header" class="header">

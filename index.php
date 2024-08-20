@@ -6,7 +6,7 @@ include 'modules/header.php';
 
 // Pages
 if (empty($_GET['page'])) {
-	include('pages/home.php');
+	include('pages/missionTerrain.php');
 } else if ($_GET['page'] == "parrainage") {
 	include('pages/parrainage.php');
 } else if ($_GET['page'] == "missionTerrain") {
