@@ -82,7 +82,7 @@
                         <div class="header-nav-wrapper">
                               <div class="container">
                                     <nav id="menuzord-right" class="menuzord default no-bg">
-                                          <a class="menuzord-brand flip xs-pull-center" href="index-mp-layout1.html"><img src="images/logo.png" alt=""></a>
+                                          <a class="menuzord-brand flip xs-pull-center" href="/"><img src="images/logo.png" alt=""></a>
                                           <ul class="menuzord-menu">
                                                 <li class="active"><a href="/">Accueil</a></li>
                                                 <li><a href="parrainage">Parrainage Ecolier Orphelin</a></li>

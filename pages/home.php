@@ -20,7 +20,7 @@
                 </div> -->
 
                 <!-- LAYER NR. 2 -->
-                <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-2" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-20']" data-fontsize="['25']" data-lineheight="['70']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;">L'éducation est la seule arme utile pour changer le monde
+                <div class="tp-caption tp-resizeme text-uppercase bg-theme-colored-transparent text-white font-raleway pl-30 pr-30" id="rs-1-layer-2" data-x="['center']" data-hoffset="['0']" data-y="['middle']" data-voffset="['-20']" data-fontsize="['25']" data-lineheight="['70']" data-width="none" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;s:500" data-transform_in="y:100;scaleX:1;scaleY:1;opacity:0;" data-transform_out="x:left(R);s:1000;e:Power3.easeIn;s:1000;e:Power3.easeIn;" data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" data-start="1000" data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap; font-weight:700; border-radius: 30px;">Impactez des vies : faites un dos maintenant !
                 </div>
 
                 <!-- LAYER NR. 3 -->
@@ -275,39 +275,27 @@
         <div class="section-content">
           <div class="row">
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6 pb-sm-20">
+
               <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-responsible-energy-use text-theme-colored font-48"></i>
+                <a href="#" class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-health-insurance text-theme-colored font-48"></i>
                 </a>
                 <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant écolier soldat</strong></h5>
-                  <p class="text-gray">40% des enfants soldats sont des filles.
-                    Ils s'en servent aussi comme petite main, comme espion, comme soigneur, comme messagers et malheureusement comme esclave sexuel.
-                    Des guerres dramatiques qui violent bon nombre des droits de l'enfant, le droit à la vie, à la santé, à l'eau et surtout le droit d'être protégé.
-                    Au mali, plus de 1800 écoles sont fermées, en raisons d'attaques ou menaces directs de groupes armées,une situation très alarmante à déplorer.
-                    Ces groupes armées enlévent des enseignants, incendient des écoles et du matériel scolaire déjà cruellement en fort déficit, puis tirant des coups de fusils durant les cours, laissant les écoliers dans une terreur noire.
-
-                    Les enfants déscolarisés vont dans les champs, les plantations aux villages
-                    découlant de la pauvreté des familles. Les frais de scolarité étant très couteux ( fournitures scolaires, vetements, chaussures, cartables sont des barriéres à l' éducation.
-
-                    Et le manque d'écoles proche du domicile des enfants, le manque de sécurité, car les enfants peuvent avoir de grandes distances à parcourir pour aller à l'école sur des chemins très dangereux ( groupes armées), sont d'autant plus de facteurs qui expliquent le taux élévé de déscolarisation et d'abandon scolaire
-
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Don à SOS ECOLE AFRIQUE</strong></h5>
+                  <p class="text-gray">
+                    L'éducation des filles en Afrique reste un enjeu crucial, car moins d'une sur cinq est scolarisée, freinant leur accès au marché du travail et le développement économique. Malgré les obstacles socio-culturels, les femmes africaines, qui effectuent 70 % des tâches agricoles, commencent à jouer un rôle plus actif dans les activités génératrices de revenus. Grâce à des initiatives agroforestières et des groupements de femmes, elles relancent l'agriculture, reverdissent le paysage et accèdent à l'autonomie par la revente de fruits et légumes.
                   </p>
 
                 </div>
               </div>
+
               <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
                 <a class="icon mb-0 mr-0 pull-left flip">
                   <i class="flaticon-charity-shelter text-theme-colored font-48"></i>
                 </a>
                 <div class="ml-80">
                   <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant écolier</strong></h5>
-                  <p class="text-gray">Avec ses 52 millions d'orphelins, l'Afrique abrite à elle seule plus d'un quart de leur population mondiale. Selon les projections, plus de 30% des jeunes africains sont orphelins.
-                    Les filles sont les plus touchés par la précarités du quotidien ( la pauvreté des ménages, le travaux forcés des garcons plus grands, le mariage forcée infantiles des filles, l'insécurité) , dans laquelle vivent des milices.
-                    Confrontées à une hygiéne déplorable, elles sont aussi touchées par le VIH, les MST et beaucoup meurent en fausse couches.
-                    Deviennent souvent des épouses de guerre et sont mariées de force aux chefs des milices considéres comme objet sexuel .
-                    Mais l'une des causes premiéres associées à l'origine de l'orphelinat est l'épidémie du VIH/SIDA.Un enfant devient orphelin parce qu'un de ces parents est décédé du VIH. Il peut ou non avoir contracté la maladie.
-                    Offrez un avenir meilleur aux orphelins en participant à notre programme de parrainnage d'orphelins. Ce programme apporte un soutien financier trimestriel aux tuteurs des orphelins allégent ainsi leur fardeau économique.Grace à votre générosité, vous contribuez à couvrir les besoins essentiels et nourriture,logement,lait infantile, habillement, soins médicaux et matériel éducatif, ainsi une vie digne et sécurisée pour ces enfants vulnerables.
+                  <p class="text-gray">De nombreuses écoles sont privées d'accès à l'eau potable, aux sanitaires et à l'électricité, ce qui augmente les maladies et les décès, surtout chez les enfants de moins de 5 ans. L'hygiène est essentielle pour prévenir les infections et favoriser la santé des enfants. L'accès à l'eau potable, une priorité pour SOS École Afrique, est crucial en Afrique subsaharienne, où moins de 50 % des écoles disposent de services d'assainissement de base, forçant les populations à chercher de l'eau loin de chez elles.
                   </p>
                 </div>
               </div>
@@ -319,50 +307,30 @@
                 </a>
                 <div class="ml-80">
                   <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant orphelin</strong></h5>
-                  <p class="text-gray">De nombreuses écoles,sont de plus en plus entiérement privées d'accées à l' eau potable causant 2,2 millions de morts chaque année dans le monde et les enfants de moins de 5ans (décés) en forte augmentation, à des sanitaires ( toilettes/lavabo ) et d 'éléctricité, ne disposant pas de structures d'assainissement.
-                    L'hygiéne est non seulement essentiel à la prévention et au contrôle efficace des maladies et des infections cholera/typhoide), mais aussi une condition préalable à la santé, au développement et au bien être des enfants
-                    les écoles devraient être des lieux où les enfants s'épanouissent et non des lieux où ils sont soumis à des difficultés ou des infections dues à l'absence d'infrastructeurs, de moyens.
-                    <strong>'eau : notre cœur de mission, source de vie, de développement et d'éducation, l'eau est malheuresement encore trop souvent source de pauvreté, de maladie et de mort, c'est pourquoi SOS ECOLE AFRIQUE a fait de l'accés à l'eau potable POUR TOUS, notre combat
-                      MAJEUR.</strong>
-                    L'afrique subsaharienne est la seule région du monde où la couverture des services d'assainissement et d'hygiéne de base dans les écoles reste inférieure à 50% ( 1 école sur 3 ).
-                    Des populations entiéres forcées de se déplacer vers des sources éloignées pour pouvoir s'approvisionner en eau.
+                  <p class="text-gray">
+                    L'Afrique compte 52 millions d'orphelins, soit plus d'un quart de la population mondiale des orphelins. Plus de 30 % des jeunes Africains sont orphelins, les filles étant particulièrement touchées par la précarité, les mariages forcés et l'insécurité. Le VIH/SIDA est une cause majeure de l'orphelinat. Le programme de parrainage d'orphelins offre un soutien financier aux tuteurs, permettant de subvenir aux besoins essentiels des enfants (nourriture, logement, soins médicaux) et leur offrant une vie plus digne et sécurisée.
                   </p>
 
                 </div>
               </div>
+
               <div class="icon-box icon-box-effect p-15 bg-light border-bottom-3px">
-                <a href="#" class="icon mb-0 mr-0 pull-left flip">
-                  <i class="flaticon-charity-health-insurance text-theme-colored font-48"></i>
+                <a class="icon mb-0 mr-0 pull-left flip">
+                  <i class="flaticon-charity-responsible-energy-use text-theme-colored font-48"></i>
                 </a>
                 <div class="ml-80">
-                  <h5 class="icon-box-title mt-15 mb-5"><strong>Don à SOS ECOLE AFRIQUE</strong></h5>
-                  <p class="text-gray">Lèducation des filles est un domaine dans lequel l'Afrique a cruellement besoin de progresser. Moins d'une ( fille / femme africaine) sur 5 ne fréquente pas les bancs de l'école, un dur frein à la croissance.
-
-                    Il est alors tres difficile aux femmes de pouvoir trouver leur place sur le marché du travail et aider la communauté à sortir de la pauvreté,puis sa faible participation ou intégration dans les activités socio-économiques et le poids des coutumes et traditions.
-
-                    Les femmes africaines sont des agricultrices fort courageuses et éxecutent 70% au moins des taches agricoles.
-
-                    Elles étaient totalement absentes des activités génératrices de revenus.
-                    Mais aujourdhui, la pente connaît un réel redressement.
-
-                    Grâce aux (INITIATIVES AGROFORESTIERES/ GROUPEMENT DE FEMMES: ( FEMME DE TERRE/ ASSOCIATION FORESTIERE DES FEMMES et LES JARDINS DE MON VILLAGE).
-
-                    Ces plantations s'inscrivent dans un grand projet d'avenir dont le but est de reverdir le paysage, de relancer l'agriculture locale et de soutenir l'émancipation des femmes en lui offrant des opportunités de travail et d'autonomie.
-
-                    La plantation d'arbres fruitiers et de cultures légumiéres permet à des villages en Afrique de générer des revenus sur le long terme grâce à la revente des fruits et légumes sur les marchés locaux.
-
+                  <h5 class="icon-box-title mt-15 mb-5"><strong>Enfant écolier soldat</strong></h5>
+                  <p class="text-gray">
+                    40 % des enfants soldats sont des filles, souvent exploitées pour diverses tâches, y compris comme esclaves sexuelles. <br>Les conflits violent gravement les droits des enfants, notamment au Mali, où plus de 1800 écoles sont fermées à cause des attaques armées. Les enfants déscolarisés, issus de familles pauvres, sont forcés de travailler.
+                  </p>
+                  <p class="text-gray">
+                    Le coût de l'éducation et l'insécurité sur les trajets vers l'école contribuent à la déscolarisation et à l'abandon scolaire.
                   </p>
 
                 </div>
               </div>
+
             </div>
-            <!-- <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 pb-sm-30">
-              <div class="image-box-thum">
-                <img class="img-fullwidth" alt="" src="images/home-image/img1.jpg">
-              </div>
-              <h4 class="mb-5"><em>Nous sommes des organismes de bienfaisance, sans but lucratif, de collecte de fonds, des ONG. Nos activités se déroulent dans le monde entier, contribuez avec nous par votre main pour une vie meilleure</em></h4>
-              <a class="font-14 text-theme-colored font-weight-600" href="">Lire la suite...</a>
-            </div> -->
           </div>
         </div>
       </div>
@@ -377,27 +345,30 @@
             <div class="col-xs-12 col-md-7">
               <h2 class="mt-0 line-bottom"><span class="font-weight-300">Bienvenue sur </span> <span class="text-theme-colored font-weight-400">SOS ÉCOLE AFRIQUE</span></h2>
 
-              <a target="_blank" href='https://paypal.me/w2days?country.x=FR&locale.x=fr_FR'>Paypal</a>
-              <p class="lead mb-10">Nous pouvons changer la vie avec l'aide des pauvres par <span class="text-theme-colored font-weight-400">SOS ÉCOLE AFRIQUE</span>.</p>
-              <p>Prendre soin des enfants, protéger leur bien-être et les préparer à l'avenir sont les problèmes les plus importants auxquels nous sommes confrontés au cours de notre vie. Tous les enfants naissent avec un sens inné de charité et de compassion. Bien sûr, il est facile de perdre ce fait de vue lorsque nous écoutons nos tout-petits réclamer les jouets les plus chauds, les friandises les plus savoureuses et les vêtements les plus tendance.</p>
+              <p class="lead mb-10">Transformer des Vies : <span class="text-theme-colored font-weight-400">La Charité au Cœur de l'Avenir des Enfants</span>.</p>
+              <p>
+                Avec l'aide de SOS ÉCOLE AFRIQUE, nous pouvons transformer des vies en soutenant les plus démunis. Protéger le bien-être des enfants et les préparer à l'avenir est essentiel. Tous les enfants naissent avec un sens naturel de la charité, souvent oublié dans le quotidien. La charité ne se résume pas au don d'argent, elle inclut aussi le temps et l'attention. Aider les autres, même de petites façons, a un impact durable.
+              </p>
 
-              <p>Mais si l'on y regarde de plus près, les signes sont partout. La plupart des gens ont tendance à associer la charité au don d'argent. Nous faisons un chèque à notre cause préférée, déposons quelques dollars dans le panier à l'église, participons aux collectes de fonds de l'école et sommes satisfaits de nos efforts.</p>
               <div class="row">
                 <div class="col-xs-6">
                   <ul class="mt-10">
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Soutien aux familles</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Travail collectif</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Recherche et information</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Soutien aux familles démunies</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Solidarité et engagement collectif</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Éducation et sensibilisation</li>
                   </ul>
                 </div>
                 <div class="col-xs-6">
                   <ul class="mt-10">
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Sentez-vous comme à la maison Services</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Soins à apporter aux jeunes enfants</li>
-                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Travail des jeûnes non à situation</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Accompagnement des enfants vulnérables</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Protection et bien-être des jeunes</li>
+                    <li class="mb-10"><i class="fa fa-angle-double-right text-theme-colored font-15"></i>&emsp;Aide aux jeunes sans ressources</li>
                   </ul>
                 </div>
+
               </div>
+
+              <a target="_blank" href='https://paypal.me/w2days?country.x=FR&locale.x=fr_FR' class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10">Faire un don maintenant</a>
             </div>
             <div class="col-md-5">
               <h3 class="mt-0 line-bottom"><span class="font-weight-300">Activités à </span> venir</h3>
@@ -711,7 +682,7 @@
                         <li class="text-theme-colored pull-right flip pr-0">But : <span class="font-weight-700">50 000€ </span></li>
                       </ul>
                       <div class="mt-10 clearfix">
-                        <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="page-donate.html">Faire un don maintenant</a>
+                        <a class="btn btn-dark btn-theme-colored btn-flat btn-sm pull-left mt-10" href="#">Faire un don maintenant</a>
                         <div class="pull-right mt-15"><i class="fa fa-heart-o text-theme-colored"></i> 89 Donateurs</div>
                       </div>
                     </div>
@@ -827,7 +798,7 @@
 
 
     <!-- Divider: Clients -->
-    <section class="clients bg-theme-colored">
+    <section class="clients bg-theme-colored-darker2">
       <div class="container pt-10 pb-10">
         <div class="row">
           <div class="col-md-12">
@@ -835,22 +806,10 @@
             <div class="owl-carousel-6col">
               <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
               <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/rac.jpg" alt=""></a></div>
               <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
               <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
-              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
-              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
-              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.w2days.com/"><img src="images/home-image/partenaires/logo-w2days.png" alt="w2days"></a></div>
-              <div class="item"> <a href="https://www.unicef.fr/"><img src="images/home-image/partenaires/logo-unicef.svg" alt=""></a></div>
-              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/croix-rouge.svg" alt=""></a></div>
+              <div class="item"> <a href="https://www.croix-rouge.fr/"><img src="images/home-image/partenaires/rac.jpg" alt=""></a></div>
             </div>
           </div>
         </div>
